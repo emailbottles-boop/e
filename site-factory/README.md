@@ -17,7 +17,11 @@ Build every site locally and open the contact sheet:
 
 Publish all of them, each to its own private repo:
 
-    ./deploy-all.sh --yes
+    deploy-all.cmd --yes     # Windows Command Prompt
+    ./deploy-all.sh --yes    # macOS / Linux
+
+Both are one-line wrappers around `scripts/deploy.js`, so every platform runs
+the identical code path.
 
 `deploy-all.sh` with no flags is a **dry run** — it prints exactly which repos
 it would create or update and touches nothing.
@@ -106,7 +110,9 @@ first.
 
     build.js                 generator — reads businesses.json, writes dist/
     businesses.json          the one file you edit
-    deploy-all.sh            build + publish every site to its own repo
+    deploy-all.sh            wrapper (macOS/Linux) around scripts/deploy.js
+    deploy-all.cmd           wrapper (Windows CMD) around scripts/deploy.js
+    scripts/deploy.js        build + publish every site to its own repo
     themes/themes.json       palettes, type pairings, hero treatments
     themes/base.css          shared layout and components
     scripts/categories.js    per-category section scaffolding
@@ -118,7 +124,9 @@ first.
     scripts/seed.js          one-time: lay down blank slots
     LEADS.md                 the call sheet — sources and what to confirm
 
-## deploy-all.sh flags
+## deploy flags
+
+Identical on both wrappers.
 
     --yes            actually publish (default is a dry run)
     --public         public repos (default: private)

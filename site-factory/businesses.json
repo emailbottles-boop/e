@@ -1940,5 +1940,3879 @@
       ],
       "verify": "Landscaping and design. Seasonal business — pitch before spring, not in autumn."
     }
+  },
+  {
+    "slug": "knotty-pine-republic",
+    "name": "The Knotty Pine Restaurant & Lounge",
+    "category": "restaurant",
+    "theme": "market",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Republic, WA",
+    "street": "",
+    "city": "Republic",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
+      },
+      {
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
+      },
+      {
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
+      },
+      {
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
+      },
+      {
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
+      },
+      {
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + aggregators (Yelp, TripAdvisor, Zmenu, Restaurantji) — Republic chamber directory shows \"No website\"",
+      "sources": [
+        "https://republicchamber.org/business-listings/",
+        "https://www.facebook.com/TheKnottyPineRestaurantLounge/",
+        "https://www.yelp.com/biz/knotty-pine-restaurant-and-lounge-republic"
+      ],
+      "verify": "Name differs in every source — chamber says \"Knotty Pine Restaurant\", Facebook \"The Knotty Pine\", Zmenu \"The Knotty Pine Resturant & Lounge\" (sic). Ask what they actually call themselves. Menu and hours currently live on aggregators the owner does not control, which is the pitch. Address 645 S Clark Ave and phone (509) 775-0926 agree across chamber and Yelp — still confirm. A 4.6 Google rating was reported secondhand; unverified.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "wolfs-den-craft-hobby-republic",
+    "name": "Wolf's Den Craft & Hobby",
+    "category": "boutique",
+    "theme": "boutique",
+    "schemaType": "ClothingStore",
+    "tagline": "A small shop with a point of view.",
+    "eyebrow": "Republic, WA",
+    "street": "",
+    "city": "Republic",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Apparel",
+        "desc": "REPLACE: the categories and sizes carried."
+      },
+      {
+        "title": "Accessories",
+        "desc": "Bags, scarves, hats, and jewelry."
+      },
+      {
+        "title": "Gifts",
+        "desc": "Cards, candles, and small-batch goods."
+      },
+      {
+        "title": "Local Makers",
+        "desc": "REPLACE: name the local artists and brands carried."
+      },
+      {
+        "title": "Gift Wrapping",
+        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+      },
+      {
+        "title": "Personal Shopping",
+        "desc": "REPLACE: describe or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + a Fivestars loyalty page only — chamber directory shows \"No website\"",
+      "sources": [
+        "https://republicchamber.org/business-listings/",
+        "https://www.facebook.com/WolfsDenCraftAndHobby/",
+        "https://hobbytyme.com/dealer.cfm?locator=793"
+      ],
+      "verify": "Name conflict worth raising as a reputation fix: Yelp and Yahoo Local render it \"Craft & Hoby\" (misspelled), chamber and Facebook say \"Craft & Hobby\". They teach classes and carry scrapbooking, RC cars/drones, jewelry supplies and train sets — a class calendar is a concrete sellable page. They already appear in the HobbyTyme dealer locator, which sends traffic somewhere they do not own. Confirm still open and who owns it.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "beanadiction-tonasket",
+    "name": "Beanadiction",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Tonasket, WA",
+    "street": "",
+    "city": "Tonasket",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + a joe.coffee mobile-ordering page and aggregators — no owned domain found",
+      "sources": [
+        "https://okanogancountry.com/dining",
+        "https://www.facebook.com/Beanadiction98855/",
+        "https://joe.coffee/locations/wa/tonasket/beanadiction-tonasket-077dbb2b/"
+      ],
+      "verify": "ADDRESS CONFLICT — Yelp says 415 South Whitcomb Ave, other listings say 415 N Whitcomb Ave. Do not assume either. They already use joe.coffee ordering, so not tech-averse — a site fronting that ordering link is low friction. Listings show unusual hours (closed Thu/Fri/Sun), exactly what a site fixes; confirm directly. Public email listed. 4.9 across ~51 reviews reported secondhand, unverified.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "gypsy-soul-mercantile-omak",
+    "name": "Gypsy Soul Mercantile",
+    "category": "boutique",
+    "theme": "boutique",
+    "schemaType": "ClothingStore",
+    "tagline": "A small shop with a point of view.",
+    "eyebrow": "Omak, WA",
+    "street": "",
+    "city": "Omak",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Apparel",
+        "desc": "REPLACE: the categories and sizes carried."
+      },
+      {
+        "title": "Accessories",
+        "desc": "Bags, scarves, hats, and jewelry."
+      },
+      {
+        "title": "Gifts",
+        "desc": "Cards, candles, and small-batch goods."
+      },
+      {
+        "title": "Local Makers",
+        "desc": "REPLACE: name the local artists and brands carried."
+      },
+      {
+        "title": "Gift Wrapping",
+        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+      },
+      {
+        "title": "Personal Shopping",
+        "desc": "REPLACE: describe or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook and Instagram only — the Omak Chamber shopping directory links to Facebook in place of a website",
+      "sources": [
+        "https://omakchamber.com/shopping",
+        "https://www.facebook.com/p/Gypsysoulmercantile-100077535641007/",
+        "https://www.instagram.com/gypsysoulmercantile/"
+      ],
+      "verify": "Strong competitive angle: in the same chamber directory, Grandpa’s Home Place and Black Antler Floral Boutique both have real domains while Gypsy Soul’s link dead-ends at Facebook. Family owned, described as a long-held dream — an owner that invested tends to be receptive. Confirm still at 1 N Main St and still trading. Public gmail listed.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "eastside-cards-games-omak",
+    "name": "Eastside Cards & Games",
+    "category": "boutique",
+    "theme": "boutique",
+    "schemaType": "ClothingStore",
+    "tagline": "A small shop with a point of view.",
+    "eyebrow": "Omak, WA",
+    "street": "",
+    "city": "Omak",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Apparel",
+        "desc": "REPLACE: the categories and sizes carried."
+      },
+      {
+        "title": "Accessories",
+        "desc": "Bags, scarves, hats, and jewelry."
+      },
+      {
+        "title": "Gifts",
+        "desc": "Cards, candles, and small-batch goods."
+      },
+      {
+        "title": "Local Makers",
+        "desc": "REPLACE: name the local artists and brands carried."
+      },
+      {
+        "title": "Gift Wrapping",
+        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+      },
+      {
+        "title": "Personal Shopping",
+        "desc": "REPLACE: describe or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — both Omak Chamber and Okanogan Country directories show no website",
+      "sources": [
+        "https://omakchamber.com/shopping",
+        "https://www.facebook.com/eastsidecardsandgames/",
+        "https://okanogancountry.com/poi/eastside-cards--games"
+      ],
+      "verify": "Best structural fit on this batch: sources describe it as the only game store in Okanogan County, running regular in-store gaming events that are currently discoverable only through Facebook posts. An events calendar is the highest-value page here. Listed Wed-Sun 3-9pm at 204 Omak Ave, (509) 322-7669 — agrees across chamber and directory, still confirm.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "warehouse-thrift-oroville",
+    "name": "Warehouse Thrift",
+    "category": "thrift",
+    "theme": "thrift",
+    "schemaType": "Store",
+    "tagline": "New stock on the floor every single day.",
+    "eyebrow": "Oroville, WA",
+    "street": "",
+    "city": "Oroville",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Clothing",
+        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
+      },
+      {
+        "title": "Housewares",
+        "desc": "Kitchen, glassware, small appliances, and linens."
+      },
+      {
+        "title": "Furniture",
+        "desc": "Couches, tables, dressers, and shelving."
+      },
+      {
+        "title": "Books, Media & Toys",
+        "desc": "Paperbacks, records, games, and puzzles."
+      },
+      {
+        "title": "Donations Welcome",
+        "desc": "REPLACE: donation hours and what you can and cannot accept."
+      },
+      {
+        "title": "Weekly Deals",
+        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
+      }
+    ],
+    "aboutHeading": "About Us",
+    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Two separate Facebook pages plus a profile on theorovilleinitiative.com — no owned domain",
+      "sources": [
+        "https://okanogancountry.com/shopping",
+        "https://www.facebook.com/Orovillewarehouse/",
+        "https://www.facebook.com/OrovilleWarehouseThrift/",
+        "https://www.gazette-tribune.com/business/warehouse-thrift-helping-oroville-become-a-thrifting-destination/86351/"
+      ],
+      "verify": "CONFLICT — two distinct Facebook pages exist. Find out which is live; the split presence is itself the selling point. Name varies between \"Warehouse Thrift\" and \"Oroville Warehouse Thrift\". Genuine press hook: the Okanogan Valley Gazette-Tribune ran a feature on them becoming a \"thrifting destination\" — build the site around it. Listings describe 10,000+ sq ft and buy/sell/trade.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "arden-second-hand-colville",
+    "name": "Arden Second Hand",
+    "category": "thrift",
+    "theme": "thrift",
+    "schemaType": "Store",
+    "tagline": "New stock on the floor every single day.",
+    "eyebrow": "Colville, WA",
+    "street": "",
+    "city": "Colville",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Clothing",
+        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
+      },
+      {
+        "title": "Housewares",
+        "desc": "Kitchen, glassware, small appliances, and linens."
+      },
+      {
+        "title": "Furniture",
+        "desc": "Couches, tables, dressers, and shelving."
+      },
+      {
+        "title": "Books, Media & Toys",
+        "desc": "Paperbacks, records, games, and puzzles."
+      },
+      {
+        "title": "Donations Welcome",
+        "desc": "REPLACE: donation hours and what you can and cannot accept."
+      },
+      {
+        "title": "Weekly Deals",
+        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
+      }
+    ],
+    "aboutHeading": "About Us",
+    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Directory profiles only (Yelp, Nextdoor, BBB, Manta) plus the Colville Chamber merchant listing — no owned domain found",
+      "sources": [
+        "https://www.colvillechamberofcommerce.com/merchant-directory/",
+        "https://www.yelp.com/biz/arden-second-hand-colville",
+        "https://www.bbb.org/us/wa/colville/profile/second-hand-stores/arden-second-hand-1296-1000009795"
+      ],
+      "verify": "PHONE CONFLICT — chamber lists 509-690-8724; chamberofcommerce.com and Buzzfile list 509-684-3967. Use neither without confirming. Address renders three ways (\"635 B Hwy. 395 South\", \"635 US-395\", \"635 Highway 395 S\"). SOURCE CAVEAT from the scout: the Colville Chamber directory shows no website field for ANY member, so its silence alone is not evidence — the no-website read here rests on the independent searches. ~20 years trading and 4.6 from ~27 reviews reported secondhand, unverified.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "bjs-branding-iron-twisp",
+    "name": "BJ's Branding Iron Saloon",
+    "category": "restaurant",
+    "theme": "market",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Twisp, WA",
+    "street": "",
+    "city": "Twisp",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
+      },
+      {
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
+      },
+      {
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
+      },
+      {
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
+      },
+      {
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
+      },
+      {
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + aggregators (Yelp, TripAdvisor, Zmenu, Untappd, Roadtrippers) — Okanogan Country dining directory lists no link",
+      "sources": [
+        "https://okanogancountry.com/poi/bjs-branding-iron-saloon",
+        "https://www.facebook.com/p/Branding-Iron-100063761492116/",
+        "https://www.stomping-ground.com/upcoming-shows/bjs-branding-iron"
+      ],
+      "verify": "PHONE CONFLICT — Okanogan Country lists (509) 997-0400; Zmenu/Roadtrippers list (509) 997-0040. Two transposed digits, confirm before dialling. Name inconsistent across all six sources, and that fragmentation is the pitch. They host live music and karaoke, but their show listings currently live on a third-party site (stomping-ground.com) — an events page they own is the lead. Twisp is a tourist town and several neighbours in the same directory already have real domains.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "farmhouse-cafe-metaline-falls",
+    "name": "The Farmhouse Cafe",
+    "category": "restaurant",
+    "theme": "market",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Metaline Falls, WA",
+    "street": "",
+    "city": "Metaline Falls",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
+      },
+      {
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
+      },
+      {
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
+      },
+      {
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
+      },
+      {
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
+      },
+      {
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + joe.coffee ordering and aggregators (Yelp, TripAdvisor, MenuPix, SinglePlatform) — no owned domain found",
+      "sources": [
+        "https://www.facebook.com/farmhousecafe221/",
+        "https://www.yelp.com/biz/the-farmhouse-cafe-metaline-falls-6",
+        "https://joe.coffee/locations/wa/metaline-falls/the-farmhouse-cafe-metaline-falls-3e81b875/"
+      ],
+      "verify": "ASK ABOUT THE HISTORY — Restaurantji resolves this address under the slug \"cathys-cafe\", suggesting a prior business name at 221 E 5th Ave. Confirm rather than assume. Strongest review volume of the batch: 4.6 across ~235 reviews, reported secondhand and unverified. Detailed menu (homemade pies, hand-pressed burgers, full espresso) exists only on pages they do not own. Metaline Falls sits on the International Selkirk Loop tourist route, so hours would catch trip-planning searches.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "ms-bs-haven-kettle-falls",
+    "name": "Ms. B's Haven",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Kettle Falls, WA",
+    "street": "",
+    "city": "Kettle Falls",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only, plus Foursquare/Nextdoor/Snapchat place pages — no owned domain found",
+      "sources": [
+        "https://www.facebook.com/msbshaven/",
+        "https://www.restaurantji.com/wa/kettle-falls/miss-bs-haven-/",
+        "https://foursquare.com/v/ms-bs-haven/524af19a498e2a7a5e98aa3e"
+      ],
+      "verify": "ADDRESS CONFLICT — searches give 320 E 3rd Ave; the Foursquare listing is titled only \"Hwy 395\". A drive-through stand may have moved; confirm location. Name spelling conflicts between \"Ms.\" and \"Miss\". THINNEST LEAD OF THE BATCH — the scout confirmed little beyond name, town, drive-through format and phone; treat all aggregator menu copy as unverified. ~86 reviews and 41 photos reported secondhand.",
+      "region": "Northeast WA"
+    }
+  },
+  {
+    "slug": "bug-and-bufs-espresso-forks",
+    "name": "Bug and Buf's Espresso",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Forks, WA",
+    "street": "",
+    "city": "Forks",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook and Instagram only — no owned domain; the Forks Chamber directory does render website links for members that have one, and shows none here",
+      "sources": [
+        "https://forkswa.com/business-directory/bug-and-bufs-espresso/",
+        "https://www.facebook.com/bugandbufsespresso/",
+        "https://www.ourfirstfed.com/business/customers/bug-and-bufs-espresso"
+      ],
+      "verify": "Real founder story to build on: a bank customer-spotlight page names the owners as two Forks natives whose nicknames 'Bug' and 'Buf' are the shop's name. Listed at 270 N Forks Ave; chamber lists no phone though other listings do. Live competitive angle — several nearby Forks food businesses in the same chamber list already have sites (hardraincafe.com, westcoastcrepesociety.com). Confirm still open and that social is the only presence.",
+      "region": "Olympic Peninsula"
+    }
+  },
+  {
+    "slug": "in-place-restaurant-forks",
+    "name": "In Place Restaurant",
+    "category": "restaurant",
+    "theme": "market",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Forks, WA",
+    "street": "",
+    "city": "Forks",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
+      },
+      {
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
+      },
+      {
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
+      },
+      {
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
+      },
+      {
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
+      },
+      {
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "No owned domain found — only the chamber listing, a PDF restaurant guide, and travel aggregators (trip.com, wanderlog)",
+      "sources": [
+        "https://forkswa.com/business-directory/in-place-restaurant/",
+        "https://forkswa.com/wp-content/uploads/pdf/ForksRestaurantGuide.pdf",
+        "https://uk.trip.com/restaurant/united-states/forks/detail/the-in-place-18970366"
+      ],
+      "verify": "NAME CONFLICT — Forks Chamber says 'In Place Restaurant'; trip.com and wanderlog say 'The In Place'. Ask which the owner uses. The scout found NO Facebook page, which is unusual enough to check directly. Angle: sources say open daily 6am-9pm (10pm summer), breakfast through dinner, beer and wine, sited across from the Forks Motel and next to the Pacific Inn — a hotel-adjacent tourist restaurant with no menu online is losing Olympic National Park visitors who search before they arrive.",
+      "region": "Olympic Peninsula"
+    }
+  },
+  {
+    "slug": "home-slice-forks",
+    "name": "Home Slice Take N Bake Pizza",
+    "category": "restaurant",
+    "theme": "market",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Forks, WA",
+    "street": "",
+    "city": "Forks",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
+      },
+      {
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
+      },
+      {
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
+      },
+      {
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
+      },
+      {
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
+      },
+      {
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — the rest of the search footprint is scraper/aggregator domains (restaurants-info, menustic, wheree, mindtrip), not an owned site",
+      "sources": [
+        "https://forkswa.com/business-directory/home-slice-take-n-bake-pizza/",
+        "https://www.facebook.com/homesliceofforks/",
+        "https://www.yelp.com/biz/home-slice-take-n-bake-forks"
+      ],
+      "verify": "NAME CONFLICT — chamber says 'Home Slice Take N Bake Pizza'; Yelp and TripAdvisor drop the 'Pizza'. Angle: 128 Yelp reviews and a TripAdvisor listing means real review volume with nowhere of their own to send it. Their model (build-your-own plus specialty pies, bake at home or baked on site for a fee) suits an online menu page well. Confirm the auto-generated menu sites are not owner-run before pitching.",
+      "region": "Olympic Peninsula"
+    }
+  },
+  {
+    "slug": "dog-gone-groomer-sequim",
+    "name": "Dog Gone Groomer",
+    "category": "petgrooming",
+    "theme": "pets",
+    "schemaType": "PetStore",
+    "tagline": "Gentle, unhurried grooming for dogs and cats.",
+    "eyebrow": "Sequim, WA",
+    "street": "",
+    "city": "Sequim",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Tue – Sat",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sun – Mon",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Full Groom",
+        "desc": "Bath, blow-out, haircut, nails, ears, and a finishing brush."
+      },
+      {
+        "title": "Bath & Brush",
+        "desc": "Wash, dry, deshed, and tidy-up without a full cut."
+      },
+      {
+        "title": "Nail Trim & Grind",
+        "desc": "Quick walk-in service, no appointment needed."
+      },
+      {
+        "title": "De-Shedding Treatment",
+        "desc": "Undercoat removal for double-coated breeds."
+      },
+      {
+        "title": "Puppy First Groom",
+        "desc": "A short, low-stress introduction to the grooming table."
+      },
+      {
+        "title": "Cat Grooming",
+        "desc": "Baths, lion cuts, and nail caps by appointment."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the groomer is, how long they have been doing this, and their approach to nervous animals.\n\nREPLACE: certifications, handling philosophy, or what makes the shop different.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page plus a free Blogspot subdomain the scout fetched and found to be two undated posts with no recent activity — no owned domain",
+      "sources": [
+        "https://business.sequimchamber.com/list/member/dog-gone-groomer-1968",
+        "https://doggonegroomersequim.blogspot.com/",
+        "https://www.facebook.com/doggonegroomer/",
+        "https://www.facebook.com/DogGoneGroomingSequim/",
+        "https://www.sequimgazette.com/business/business-groomers-skills-honed-over-40-years-opens-new-sequim-shop/"
+      ],
+      "verify": "BEST PITCH ON THIS BATCH — they already tried to have a web presence and it went stale on a free Blogspot. TWO CONFLICTS: (1) the Sequim Chamber listing gives no street address, just 'Sequim WA 98382', while Yelp and the blog give 1087 E Washington St; (2) two similarly named Facebook pages exist ('Dog Gone Groomer' and 'Dog Gone Grooming Sequim') — establish which is current and whether they are even the same business. Tenure hook: a Sequim Gazette story is headlined around 40 years of grooming experience. Direct competitor Sonny's Spaw in the same town runs a real site with online booking.",
+      "region": "Olympic Peninsula"
+    }
+  },
+  {
+    "slug": "picket-fence-quilcene",
+    "name": "The Picket Fence",
+    "category": "boutique",
+    "theme": "boutique",
+    "schemaType": "ClothingStore",
+    "tagline": "A small shop with a point of view.",
+    "eyebrow": "Quilcene, WA",
+    "street": "",
+    "city": "Quilcene",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Apparel",
+        "desc": "REPLACE: the categories and sizes carried."
+      },
+      {
+        "title": "Accessories",
+        "desc": "Bags, scarves, hats, and jewelry."
+      },
+      {
+        "title": "Gifts",
+        "desc": "Cards, candles, and small-batch goods."
+      },
+      {
+        "title": "Local Makers",
+        "desc": "REPLACE: name the local artists and brands carried."
+      },
+      {
+        "title": "Gift Wrapping",
+        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+      },
+      {
+        "title": "Personal Shopping",
+        "desc": "REPLACE: describe or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "No owned domain found — presence is the North Hood Canal Chamber page, Yelp, Roadtrippers, Alignable, and a Port Townsend Leader article",
+      "sources": [
+        "https://emeraldtowns.com/2011/02/14/the-picket-fence/",
+        "https://www.yelp.com/biz/the-picket-fence-quilcene-2",
+        "https://www.ptleader.com/stories/the-picket-fence-reopens-in-quilcene,32624"
+      ],
+      "verify": "CONFIRM STILL OPEN FIRST — the PT Leader piece is headlined 'The Picket Fence reopens in Quilcene', so there has been at least one closure and reopening. Get current status and hours from the owner, not listings. No Facebook page found; worth confirming. Angle: the product mix (handmade goods, custom embroidery, locally made garden and pet items, reclaimed furniture) is highly photographable one-of-a-kind inventory that sells on images and is currently invisible outside Yelp. CAUTION: 'picket fence' collides with unrelated businesses (bythepicketfence.com jewelry, Pickett Fences in Los Angeles) — neither is this shop.",
+      "region": "Olympic Peninsula"
+    }
+  },
+  {
+    "slug": "thrift-star-port-angeles",
+    "name": "Thrift Star",
+    "category": "thrift",
+    "theme": "thrift",
+    "schemaType": "Store",
+    "tagline": "New stock on the floor every single day.",
+    "eyebrow": "Port Angeles, WA",
+    "street": "",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Clothing",
+        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
+      },
+      {
+        "title": "Housewares",
+        "desc": "Kitchen, glassware, small appliances, and linens."
+      },
+      {
+        "title": "Furniture",
+        "desc": "Couches, tables, dressers, and shelving."
+      },
+      {
+        "title": "Books, Media & Toys",
+        "desc": "Paperbacks, records, games, and puzzles."
+      },
+      {
+        "title": "Donations Welcome",
+        "desc": "REPLACE: donation hours and what you can and cannot accept."
+      },
+      {
+        "title": "Weekly Deals",
+        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
+      }
+    ],
+    "aboutHeading": "About Us",
+    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — even the Visit Port Angeles tourism directory links to its Facebook rather than a site",
+      "sources": [
+        "http://www.visitportangeles.com/shop-antiques",
+        "https://www.facebook.com/ThriftStarPAWA/",
+        "https://opengovwa.com/corporation/604830280"
+      ],
+      "verify": "STRONGEST COMPETITIVE HOOK OF THE BATCH — Visit Port Angeles's antiques/vintage page lists exactly two businesses, and the other one gets a real website link while Thrift Star gets a Facebook link. NAME CONFLICT: renders as both 'Thrift Star' and 'Thrift Star!' with an exclamation point; ask the owner. Registered as Thrift Star LLC in WA state records. Their stated hook — donating 15% of profits to a rotation of local charities — is a story a site could actually tell.",
+      "region": "Olympic Peninsula"
+    }
+  },
+  {
+    "slug": "sisters-co-port-angeles",
+    "name": "Sisters & Co. Hair and Nail Studio",
+    "category": "nails",
+    "theme": "salon",
+    "schemaType": "NailSalon",
+    "tagline": "Clean work, careful prep, and colors that last.",
+    "eyebrow": "Port Angeles, WA",
+    "street": "",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Tue – Sat",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sun – Mon",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Manicure",
+        "desc": "Shape, cuticle care, buff, and polish."
+      },
+      {
+        "title": "Pedicure",
+        "desc": "Soak, exfoliation, callus care, massage, and polish."
+      },
+      {
+        "title": "Gel & Dip",
+        "desc": "Long-wear color with proper prep and removal."
+      },
+      {
+        "title": "Acrylic & Extensions",
+        "desc": "Full sets, fills, and repairs."
+      },
+      {
+        "title": "Nail Art",
+        "desc": "Freehand designs, chrome, ombré, and hand-set stones."
+      },
+      {
+        "title": "Waxing",
+        "desc": "REPLACE: list the waxing services offered, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Salon",
+    "about": "REPLACE: who the technicians are, their training, and the salon atmosphere.\n\nREPLACE: sanitation practices and booking policy.",
+    "galleryTiles": 8,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook and Instagram only — no owned domain; the Visit Port Angeles entry is a directory listing, not their site",
+      "sources": [
+        "https://www.visitportangeles.com/things-to-do/port-angeles/shopping/sisters-co-hair-nail-studio/",
+        "https://www.facebook.com/sisters.co.studio/",
+        "https://www.instagram.com/sisters.co.studio/?hl=en"
+      ],
+      "verify": "Confirm whether they take online booking anywhere — the scout found none, and for a salon that is the single highest-value feature to lead with. Owned by two sisters, which is a ready-made About story. Roughly 52 reviews at a 98% recommend rate on Facebook reported secondhand, unverified — real social proof with no owned page to host it. Note: Port Angeles has a cluster of similar Facebook-only nail businesses (Oohlulu Nail Boutique, Nailed by Mandy, Golden Nails, Dream Catcher Nails), so if this one does not bite the same pitch travels.",
+      "region": "Olympic Peninsula"
+    }
+  },
+  {
+    "slug": "joyce-general-store",
+    "name": "Joyce General Store",
+    "category": "market",
+    "theme": "market",
+    "schemaType": "GroceryStore",
+    "tagline": "Your neighborhood grocery and deli.",
+    "eyebrow": "Joyce, WA",
+    "street": "",
+    "city": "Joyce",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Deli Counter",
+        "desc": "Sandwiches, salads, and sliced-to-order meats and cheeses."
+      },
+      {
+        "title": "Fresh Produce",
+        "desc": "REPLACE: note local growers or seasonal highlights."
+      },
+      {
+        "title": "Meat & Seafood",
+        "desc": "REPLACE: butcher counter details, or remove this card."
+      },
+      {
+        "title": "Pantry & Staples",
+        "desc": "Everything for the week without the drive to a big store."
+      },
+      {
+        "title": "Beer & Wine",
+        "desc": "REPLACE: selection notes, or remove this card."
+      },
+      {
+        "title": "Catering Trays",
+        "desc": "REPLACE: lead time and tray sizes, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Market",
+    "about": "REPLACE: how long the market has served the area and who runs it.\n\nREPLACE: local suppliers, house-made items, or the deli specialty.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "No owned domain found — presence is Yelp, Nextdoor, Roadtrippers, Manta, scenicwa.com and a travel-blog feature",
+      "sources": [
+        "https://www.yelp.com/biz/joyce-general-store-port-angeles",
+        "https://scenicwa.com/poi/joyce-general-store",
+        "https://www.onlyinyourstate.com/experiences/washington/joyce-general-store-wa"
+      ],
+      "verify": "BEST STORY ON THE WHOLE LIST — sources say it opened in 1911, is the longest continually operating general store in Washington, still houses the Joyce post office, and packs roughly 60,000 items into about 2,000 sq ft. A tourist-destination narrative on Highway 112 with no page of its own, while visitors heading to the Strait and Olympic National Park search for exactly this. TWO CONFLICTS: (1) town — Yellow Pages files it as Joyce WA 98343, Yelp/Roadtrippers/Nextdoor file it under Port Angeles, likely a mailing-address artifact but confirm what the owner uses; (2) street number — 50883 Highway 112 vs 50893 WA-112. Confirm current ownership before pitching the history; sources say it has changed hands several times, always to a local.",
+      "region": "Olympic Peninsula"
+    }
+  },
+  {
+    "slug": "evans-automotive-port-angeles",
+    "name": "Evan's Automotive",
+    "category": "autorepair",
+    "theme": "auto",
+    "schemaType": "AutoRepair",
+    "tagline": "Straight answers and work that holds up.",
+    "eyebrow": "Port Angeles, WA",
+    "street": "",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Diagnostics",
+        "desc": "Check-engine codes read and traced to the actual cause."
+      },
+      {
+        "title": "Brakes & Suspension",
+        "desc": "Pads, rotors, shocks, struts, and alignment."
+      },
+      {
+        "title": "Engine & Transmission",
+        "desc": "Timing, cooling, leaks, and driveline work."
+      },
+      {
+        "title": "Scheduled Maintenance",
+        "desc": "Oil, filters, fluids, and factory-interval service."
+      },
+      {
+        "title": "Tires & Wheels",
+        "desc": "Mount, balance, rotate, and repair."
+      },
+      {
+        "title": "Off-Road & Lift Kits",
+        "desc": "REPLACE: suspension lifts, armor, and build work — or remove."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the mechanics are, years in the trade, and certifications.\n\nREPLACE: warranty terms and how estimates are handled.",
+    "galleryTiles": 4,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — remaining hits are directory and scraper listings (chamberofcommerce.com, Yellow Pages, wheree, nears.me)",
+      "sources": [
+        "https://www.facebook.com/EvansAutomotiveRepairAndCustoms/",
+        "https://www.chamberofcommerce.com/business-directory/washington/port-angeles/miscellaneous/2026922837-evan-s-automotive",
+        "https://nextdoor.com/pages/evans-complete-automotive-repair-sequim-wa/"
+      ],
+      "verify": "DO NOT PITCH UNTIL IDENTITY IS ESTABLISHED — this one has real ambiguity. (1) Address conflict: 73 James Page Rd, Port Angeles on Facebook and newer listings, vs 1938 E Ennis Creek Rd on an older one. (2) Town/name conflict: the Nextdoor page reached under this name has the URL slug 'evans-complete-automotive-repair-sequim-wa', so there may be a separate or former 'Evan's Complete Automotive Repair' in Sequim. Confirm by phone that these are one business before making contact. If it checks out: sources cite 20+ years on the peninsula and a 5.0 from 14 reviewers (secondhand, unverified), and the Facebook page name suggests a custom/build side no listing shows off. Competitor Petersen's Automotive in the same town runs a real site.",
+      "region": "Olympic Peninsula"
+    }
+  },
+  {
+    "slug": "twisted-wire-coffee-pomeroy",
+    "name": "Twisted Wire Coffee",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Pomeroy, WA",
+    "street": "",
+    "city": "Pomeroy",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook and Instagram plus a third-party ordering page (joinplatter.com) — no owned domain found",
+      "sources": [
+        "https://www.pomeroychamberofcommerce.com/business-directory",
+        "https://www.facebook.com/TwistedWireCoffee",
+        "https://twistedwirecoffee.joinplatter.com/"
+      ],
+      "verify": "Good confirmation of the no-website read: the chamber directory shows a Facebook link here where other members show real domains. Angle: 4.6 across 85 reviews reported secondhand (unverified) — real demand and word of mouth with nowhere to send it. They already pay for joinplatter, so they are not tech-averse. IMPORTANT: check whether the owner already treats that joinplatter page as 'our website' — that objection will come up first.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "curiosity-shop-pomeroy",
+    "name": "The Curiosity Shop",
+    "category": "antiques",
+    "theme": "vintage",
+    "schemaType": "Store",
+    "tagline": "Curated antiques, oddities, and honest old things.",
+    "eyebrow": "Pomeroy, WA",
+    "street": "",
+    "city": "Pomeroy",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Furniture",
+        "desc": "Solid-wood pieces, mid-century through Victorian."
+      },
+      {
+        "title": "Glassware & China",
+        "desc": "Depression glass, pottery, and full sets."
+      },
+      {
+        "title": "Vintage Decor",
+        "desc": "Signs, lighting, mirrors, and wall art."
+      },
+      {
+        "title": "Jewelry & Smalls",
+        "desc": "Costume and estate jewelry, watches, and curiosities."
+      },
+      {
+        "title": "Estate Buying",
+        "desc": "REPLACE: describe how the shop buys, or remove this card."
+      },
+      {
+        "title": "Booth Rental",
+        "desc": "REPLACE: booth sizes and monthly rates, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: how long the shop has been open, what the owner collects, and what walking in feels like.\n\nREPLACE: whether dealers rent booths, and how stock turns over.",
+    "galleryTiles": 8,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — no website found",
+      "sources": [
+        "https://www.pomeroychamberofcommerce.com/business-directory",
+        "https://www.facebook.com/p/The-Curiosity-Shop-61560411633620/"
+      ],
+      "verify": "THINNEST LEAD OF THIS BATCH — beyond name, town, address and phone the scout established nothing. Confirm what they actually sell and whether they are still trading before calling. NAME COLLISION WARNING: 'The Curiosity Shop' collides with unrelated businesses in Seattle (Ye Olde Curiosity Shop), Riverside CA, Cape Coral FL, and a Shopify store — do not let those search results contaminate the pitch. The Pomeroy entity is confirmed distinct only by the chamber listing and its own Pomeroy Facebook page.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "trestle-coffee-tekoa",
+    "name": "Trestle Coffee",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Tekoa, WA",
+    "street": "",
+    "city": "Tekoa",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Instagram only — no website found",
+      "sources": [
+        "https://exploretekoa.com/business-directory/",
+        "https://www.instagram.com/trestle.coffee/",
+        "https://www.wcgazette.com/story/2025/07/24/people/tekoa-coffee-shop-under-new-ownership/44411.html"
+      ],
+      "verify": "MOST URGENT LEAD ON THE LIST. New owners took over in 2025 from the operator of Eclair's Coffee & Company in the same building — and Eclair's still has a live site. So the PREDECESSOR BRAND owns the searchable web presence for that address while the current business has only Instagram. New ownership also means budget decisions are being made right now. NAME CONFLICT: Tekoa chamber says 'Trestle Coffee'; the Whitman County Gazette says 'Trestle Creek Coffee' — ask, do not pick. Separately, an unrelated 'Trestle Coffee Company' in Anacortes shows as closed on Yelp; do not confuse them.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "bees-honey-pot-tekoa",
+    "name": "Bee's Honey Pot Thrift",
+    "category": "thrift",
+    "theme": "thrift",
+    "schemaType": "Store",
+    "tagline": "New stock on the floor every single day.",
+    "eyebrow": "Tekoa, WA",
+    "street": "",
+    "city": "Tekoa",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Clothing",
+        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
+      },
+      {
+        "title": "Housewares",
+        "desc": "Kitchen, glassware, small appliances, and linens."
+      },
+      {
+        "title": "Furniture",
+        "desc": "Couches, tables, dressers, and shelving."
+      },
+      {
+        "title": "Books, Media & Toys",
+        "desc": "Paperbacks, records, games, and puzzles."
+      },
+      {
+        "title": "Donations Welcome",
+        "desc": "REPLACE: donation hours and what you can and cannot accept."
+      },
+      {
+        "title": "Weekly Deals",
+        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
+      }
+    ],
+    "aboutHeading": "About Us",
+    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — no website found",
+      "sources": [
+        "https://exploretekoa.com/business-directory/",
+        "https://www.wcgazette.com/story/2025/07/24/people/bees-honey-pot-opens-in-tekoa/44409.html",
+        "https://www.facebook.com/p/Bees-Honey-Pot-61578685050769/"
+      ],
+      "verify": "Easiest kind of first-site sale: grand opening was 2 Aug 2025, timed to the Tekoa city-wide yard sale, so this is a brand-new business still building an identity. Vintage and secondhand clothing photographs well. NAME CONFLICT: chamber says 'Bee's Honey Pot Thrift'; the Gazette and Facebook say 'Bee's Honey Pot'. ADDRESS CONFLICT: chamber says 117 Crosby St, the Gazette says 117 N Crosby St. Also note Bizapedia shows a 'Bee's honey pot, LLC' tied to both Kannapolis NC and Tekoa WA — establish which entity is the shop.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "tekoa-market",
+    "name": "Tekoa Market",
+    "category": "market",
+    "theme": "market",
+    "schemaType": "GroceryStore",
+    "tagline": "Your neighborhood grocery and deli.",
+    "eyebrow": "Tekoa, WA",
+    "street": "",
+    "city": "Tekoa",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Deli Counter",
+        "desc": "Sandwiches, salads, and sliced-to-order meats and cheeses."
+      },
+      {
+        "title": "Fresh Produce",
+        "desc": "REPLACE: note local growers or seasonal highlights."
+      },
+      {
+        "title": "Meat & Seafood",
+        "desc": "REPLACE: butcher counter details, or remove this card."
+      },
+      {
+        "title": "Pantry & Staples",
+        "desc": "Everything for the week without the drive to a big store."
+      },
+      {
+        "title": "Beer & Wine",
+        "desc": "REPLACE: selection notes, or remove this card."
+      },
+      {
+        "title": "Catering Trays",
+        "desc": "REPLACE: lead time and tray sizes, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Market",
+    "about": "REPLACE: how long the market has served the area and who runs it.\n\nREPLACE: local suppliers, house-made items, or the deli specialty.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — no website found; aggregator listings point to the City of Tekoa site, which is not theirs",
+      "sources": [
+        "https://exploretekoa.com/business-directory/",
+        "https://www.facebook.com/p/Tekoa-Market-100057146663177/",
+        "https://www.manta.com/c/mmfsgmm/tekoa-market"
+      ],
+      "verify": "HONEST CAUTION: at least one visible review complains about prices and produce quality, so frame the pitch around weekly specials and deli ordering rather than brand polish. Manta lists founding as 1983 and an owner contact name — over four decades in a town this size — but that is aggregator data, not from the business, so confirm both directly. ADDRESS CONFLICT: chamber gives none, Yelp says '138 N Crosby', Manta renders it 'N138 Crosby St'. Note it is the NORTH side; do not confuse with 138 S Crosby St, which the chamber lists for a different business.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "thrifty-grandmothers-colfax",
+    "name": "Thrifty Grandmothers",
+    "category": "thrift",
+    "theme": "thrift",
+    "schemaType": "Store",
+    "tagline": "New stock on the floor every single day.",
+    "eyebrow": "Colfax, WA",
+    "street": "",
+    "city": "Colfax",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Clothing",
+        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
+      },
+      {
+        "title": "Housewares",
+        "desc": "Kitchen, glassware, small appliances, and linens."
+      },
+      {
+        "title": "Furniture",
+        "desc": "Couches, tables, dressers, and shelving."
+      },
+      {
+        "title": "Books, Media & Toys",
+        "desc": "Paperbacks, records, games, and puzzles."
+      },
+      {
+        "title": "Donations Welcome",
+        "desc": "REPLACE: donation hours and what you can and cannot accept."
+      },
+      {
+        "title": "Weekly Deals",
+        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
+      }
+    ],
+    "aboutHeading": "About Us",
+    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "No website found — only aggregator and auto-generated directory pages (Yelp, Loc8NearMe, an edan.io stub)",
+      "sources": [
+        "https://explorecolfaxwa.com/business-directory/",
+        "https://www.yelp.com/biz/thrifty-grandmothers-colfax",
+        "http://www.thefigtree.org/may23/050123colfaxgrandmothers.html"
+      ],
+      "verify": "DIFFERENT KIND OF PITCH — this is an all-volunteer charity shop, so lead with donations and volunteer sign-up, not commerce. That is an easier ask than a commercial site, but budget and decisions go through a committee: establish who actually decides before investing time. Genuine story: per The Fig Tree the Colfax Grandmothers Club began in the 1950s and the shop gave more than $56,000 to the community in a single year. NAME CONFLICT across three renderings ('Thrifty Grandmothers', 'Thrifty Grandmother's Shop', 'Thrifty Grandmothers Thrift Shop'). ADDRESS CONFLICT: 118 N Main vs '116N North Main Street'.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "dusty-attic-colfax",
+    "name": "Dusty Attic",
+    "category": "antiques",
+    "theme": "vintage",
+    "schemaType": "Store",
+    "tagline": "Curated antiques, oddities, and honest old things.",
+    "eyebrow": "Colfax, WA",
+    "street": "",
+    "city": "Colfax",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Furniture",
+        "desc": "Solid-wood pieces, mid-century through Victorian."
+      },
+      {
+        "title": "Glassware & China",
+        "desc": "Depression glass, pottery, and full sets."
+      },
+      {
+        "title": "Vintage Decor",
+        "desc": "Signs, lighting, mirrors, and wall art."
+      },
+      {
+        "title": "Jewelry & Smalls",
+        "desc": "Costume and estate jewelry, watches, and curiosities."
+      },
+      {
+        "title": "Estate Buying",
+        "desc": "REPLACE: describe how the shop buys, or remove this card."
+      },
+      {
+        "title": "Booth Rental",
+        "desc": "REPLACE: booth sizes and monthly rates, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: how long the shop has been open, what the owner collects, and what walking in feels like.\n\nREPLACE: whether dealers rent booths, and how stock turns over.",
+    "galleryTiles": 8,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — no website found",
+      "sources": [
+        "https://explorecolfaxwa.com/business-directory/",
+        "https://www.facebook.com/dustyatticcolfax/",
+        "https://www.yelp.com/biz/dusty-attic-colfax"
+      ],
+      "verify": "UNTANGLE THE ENTITY BEFORE CALLING — the Colfax chamber lists 'Dusty Attic & Leftovers, The' at 113 N Main St AND a separate 'Leftovers' at 114 N Main St, while Yelp and Facebook list plain 'Dusty Attic' at 113 N Main St. Ask whether that is one business, two, or one that absorbed the other; pitching the wrong name will land badly. Angle: consignment with three price points and named collectible niches (reviews mention a large toy collection and Nancy Drew / Hardy Boys books) — consignment and collectibles are exactly where an online catalogue earns money. A neighbouring Colfax retailer already runs its own domain.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "colfax-body-repair",
+    "name": "Colfax Body Repair",
+    "category": "autorepair",
+    "theme": "auto",
+    "schemaType": "AutoRepair",
+    "tagline": "Straight answers and work that holds up.",
+    "eyebrow": "Colfax, WA",
+    "street": "",
+    "city": "Colfax",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Diagnostics",
+        "desc": "Check-engine codes read and traced to the actual cause."
+      },
+      {
+        "title": "Brakes & Suspension",
+        "desc": "Pads, rotors, shocks, struts, and alignment."
+      },
+      {
+        "title": "Engine & Transmission",
+        "desc": "Timing, cooling, leaks, and driveline work."
+      },
+      {
+        "title": "Scheduled Maintenance",
+        "desc": "Oil, filters, fluids, and factory-interval service."
+      },
+      {
+        "title": "Tires & Wheels",
+        "desc": "Mount, balance, rotate, and repair."
+      },
+      {
+        "title": "Off-Road & Lift Kits",
+        "desc": "REPLACE: suspension lifts, armor, and build work — or remove."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the mechanics are, years in the trade, and certifications.\n\nREPLACE: warranty terms and how estimates are handled.",
+    "galleryTiles": 4,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page plus Yelp/Carwise/Nextdoor listings — no owned domain found",
+      "sources": [
+        "https://explorecolfaxwa.com/business-directory/",
+        "https://www.facebook.com/colfaxbodyrepair/",
+        "https://www.carwise.com/auto-body-shops/colfax-body-repair-llc-colfax-wa-99111/474027",
+        "https://www.ericsautobodycolfax.com/"
+      ],
+      "verify": "BEST COMPETITIVE ANGLE ON THE WHOLE LIST — a direct competitor in the same small town, Eric's Autobody & Glass, runs a real website. That comparison sells itself. Second angle: sources say they do 24-hour towing, which people search for on a phone at the roadside — the exact scenario a Facebook page handles worst. Sources also state service since 1969 and AAA provider status; both come from listing pages rather than the business, so confirm with the owner. NAME CONFLICT: chamber says 'Colfax Body Repair', other listings add 'LLC'.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "lindas-whimseys-palouse",
+    "name": "Linda's Whimseys",
+    "category": "antiques",
+    "theme": "vintage",
+    "schemaType": "Store",
+    "tagline": "Curated antiques, oddities, and honest old things.",
+    "eyebrow": "Palouse, WA",
+    "street": "",
+    "city": "Palouse",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Furniture",
+        "desc": "Solid-wood pieces, mid-century through Victorian."
+      },
+      {
+        "title": "Glassware & China",
+        "desc": "Depression glass, pottery, and full sets."
+      },
+      {
+        "title": "Vintage Decor",
+        "desc": "Signs, lighting, mirrors, and wall art."
+      },
+      {
+        "title": "Jewelry & Smalls",
+        "desc": "Costume and estate jewelry, watches, and curiosities."
+      },
+      {
+        "title": "Estate Buying",
+        "desc": "REPLACE: describe how the shop buys, or remove this card."
+      },
+      {
+        "title": "Booth Rental",
+        "desc": "REPLACE: booth sizes and monthly rates, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: how long the shop has been open, what the owner collects, and what walking in feels like.\n\nREPLACE: whether dealers rent booths, and how stock turns over.",
+    "galleryTiles": 8,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — the Visit Palouse chamber shopping page links to Facebook rather than a site",
+      "sources": [
+        "https://www.visitpalouse.com/shopping",
+        "https://www.facebook.com/lindaswhimseys/",
+        "https://www.yelp.com/biz/lindas-whimseys-palouse"
+      ],
+      "verify": "Sharpest thing to lead with: on the very same Visit Palouse shopping page, Open Eye Consignments — a direct in-town peer in the same retail niche — already owns its domain. HONEST LIMIT: the scout found no reviews, tenure or owner name, so beyond name, town, merchandise type and an aggregator-sourced address and phone, little is established. The chamber page gives no address, so confirm it rather than trusting the aggregators. Listings describe Victorian jewellery, cards, lotions, soaps and antiques.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "carolyns-cafe-dayton",
+    "name": "Carolyn's Café",
+    "category": "restaurant",
+    "theme": "market",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Dayton, WA",
+    "street": "",
+    "city": "Dayton",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
+      },
+      {
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
+      },
+      {
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
+      },
+      {
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
+      },
+      {
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
+      },
+      {
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page plus TripAdvisor and MenuPix listings — no website found",
+      "sources": [
+        "https://www.historicdayton.com/members-explandable-1",
+        "https://www.facebook.com/p/Carolyns-Cafe-100054234860636/",
+        "https://www.waitsburgtimes.com/story/2014/08/21/news/carolyns-caf-good-morning/4993.html"
+      ],
+      "verify": "CONFIRM IT IS STILL HERS FIRST — the Waitsburg Times feature is from 2014, so ownership and hours may well have changed. If it holds: a genuine local story (the owner and her husband converted part of the family furniture store into the cafe, after she previously ran a baked-goods business on Main Street) plus a custom-order baking line — cinnamon rolls, pies, cakes, cheesecakes — which is precisely what a Facebook feed loses and an order page captures. ADDRESS CONFLICT: the Dayton chamber says 362 E Main St; the Times describes it as the corner of 3rd and Main, across from the Courthouse. Reconcile before anything with an address goes on the page. Unrelated 'Carolyn's Cafe' businesses exist in Redlands CA and Hungry Horse MT.",
+      "region": "Palouse / SE WA"
+    }
+  },
+  {
+    "slug": "it-is-what-it-is-cathlamet",
+    "name": "It Is What It Is Antiques",
+    "category": "antiques",
+    "theme": "vintage",
+    "schemaType": "Store",
+    "tagline": "Curated antiques, oddities, and honest old things.",
+    "eyebrow": "Cathlamet, WA",
+    "street": "",
+    "city": "Cathlamet",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Furniture",
+        "desc": "Solid-wood pieces, mid-century through Victorian."
+      },
+      {
+        "title": "Glassware & China",
+        "desc": "Depression glass, pottery, and full sets."
+      },
+      {
+        "title": "Vintage Decor",
+        "desc": "Signs, lighting, mirrors, and wall art."
+      },
+      {
+        "title": "Jewelry & Smalls",
+        "desc": "Costume and estate jewelry, watches, and curiosities."
+      },
+      {
+        "title": "Estate Buying",
+        "desc": "REPLACE: describe how the shop buys, or remove this card."
+      },
+      {
+        "title": "Booth Rental",
+        "desc": "REPLACE: booth sizes and monthly rates, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: how long the shop has been open, what the owner collects, and what walking in feels like.\n\nREPLACE: whether dealers rent booths, and how stock turns over.",
+    "galleryTiles": 8,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page and third-party directory mirrors only — no owned domain found",
+      "sources": [
+        "https://wahkiakum.us/businesses/member-directory/",
+        "https://www.findglocal.com/US/Cathlamet/1716795951980156/It-Is-What-It-Is",
+        "https://www.chamberofcommerce.com/business-directory/washington/cathlamet/shopping/antiques-collectibles/"
+      ],
+      "verify": "PHONE CONFLICT — Wahkiakum Chamber says 408-472-6078; the Facebook mirror says (360) 849-4700. A 408 area code on a Cathlamet business suggests an out-of-area owner; confirm it is still trading. NAME CONFLICT: chamber adds 'Antiques', the mirror does not. Angle: mirror says the shop was formerly 'The Big Red Barn' and runs recurring events including $1 book sales — a recurring-events shop is a natural 'what's on this weekend' page. Cathlamet peers Tsuga Gallery and Elochoman Valley Soapworks already have domains in the same directory.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "kims-unique-boutique-castle-rock",
+    "name": "Kim's Unique Boutique",
+    "category": "thrift",
+    "theme": "thrift",
+    "schemaType": "Store",
+    "tagline": "New stock on the floor every single day.",
+    "eyebrow": "Castle Rock, WA",
+    "street": "",
+    "city": "Castle Rock",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Clothing",
+        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
+      },
+      {
+        "title": "Housewares",
+        "desc": "Kitchen, glassware, small appliances, and linens."
+      },
+      {
+        "title": "Furniture",
+        "desc": "Couches, tables, dressers, and shelving."
+      },
+      {
+        "title": "Books, Media & Toys",
+        "desc": "Paperbacks, records, games, and puzzles."
+      },
+      {
+        "title": "Donations Welcome",
+        "desc": "REPLACE: donation hours and what you can and cannot accept."
+      },
+      {
+        "title": "Weekly Deals",
+        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
+      }
+    ],
+    "aboutHeading": "About Us",
+    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page is explicitly its primary web presence per the Castle Rock CDA directory — no owned domain",
+      "sources": [
+        "https://www.castlerockcda.com/business-directory/kims-unique-boutique/",
+        "https://www.yelp.com/biz/kims-unique-boutique-castle-rock",
+        "https://www.facebook.com/p/Kims-Unique-Boutique-61565019656629/"
+      ],
+      "verify": "CONFIRM IT IS OPEN FIRST — Yellow Pages marks the business CLOSED, while Yelp shows an update as recent as May 2026 and Facebook plus both local directories list it active. TRAP ALREADY CLEARED: the domain kimsuniqueboutique.com exists but is an unrelated hematite jewellery seller with a Cincinnati phone and no WA address — do not be scared off by it, but confirm the Castle Rock owner has no claim to it. Category described three ways across sources (boutique/retail, antiques, thrift and consignment). ADDRESS: '23 Cowlitz St W' vs '23 Cowlitz Street'. Angle: rotating inventory, which is the classic case for a simple photo-feed site. A local paper ran a 'Talking Business' feature worth reading for the owner's name.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "etc-mercantile-kalama",
+    "name": "Etc. Mercantile",
+    "category": "boutique",
+    "theme": "boutique",
+    "schemaType": "ClothingStore",
+    "tagline": "A small shop with a point of view.",
+    "eyebrow": "Kalama, WA",
+    "street": "",
+    "city": "Kalama",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Apparel",
+        "desc": "REPLACE: the categories and sizes carried."
+      },
+      {
+        "title": "Accessories",
+        "desc": "Bags, scarves, hats, and jewelry."
+      },
+      {
+        "title": "Gifts",
+        "desc": "Cards, candles, and small-batch goods."
+      },
+      {
+        "title": "Local Makers",
+        "desc": "REPLACE: name the local artists and brands carried."
+      },
+      {
+        "title": "Gift Wrapping",
+        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+      },
+      {
+        "title": "Personal Shopping",
+        "desc": "REPLACE: describe or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook and Instagram only — confirmed with no website on two independent local directories",
+      "sources": [
+        "https://www.kalamachamber.com/directory",
+        "https://discoverkalama.com/places_categories/gift-shops/",
+        "https://tdn.com/news/local/business/article_ff783102-d599-11ed-b24a-1bf6a401aea3.html"
+      ],
+      "verify": "STRONGEST LEAD IN THIS BATCH. A Longview Daily News feature names the owners, Kalama residents of 12 years, one of whom left teaching to open the shop. Critically, they also run private mailboxes and are BOTH a FedEx Authorized ShipCenter and a UPS Authorized Shipping Outlet alongside gifts, decor and local art — shipping customers actively search for that, and it currently appears nowhere they control. A one-pager with hours and a 'what we ship' section solves a real problem. NAME CONFLICT: chamber writes 'Etc Mercantile' (no period) and files it as a general store; Discover Kalama and Facebook write 'Etc. Mercantile' under gift shops. The newspaper piece dates from the opening — confirm still owner-operated.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "antique-deli-kalama",
+    "name": "Antique Deli",
+    "category": "restaurant",
+    "theme": "market",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Kalama, WA",
+    "street": "",
+    "city": "Kalama",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
+      },
+      {
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
+      },
+      {
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
+      },
+      {
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
+      },
+      {
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
+      },
+      {
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page plus menu-aggregator listings (Zmenu, MenuPix, Sirved, Restaurantji) — no owned domain found",
+      "sources": [
+        "https://www.kalamachamber.com/directory",
+        "https://www.yelp.com/biz/antique-deli-and-pastry-shoppe-kalama-2",
+        "https://www.zmenu.com/antique-deli-kalama-online-menu/"
+      ],
+      "verify": "Cleanest possible pitch — own your menu. Yelp shows 69 reviews and 34 photos (updated Aug 2026) and Restaurantji shows 148 reviews, so real customer volume, yet the menu lives only on scraped aggregator pages they do not control. Reviewers repeatedly cite it as an I-5 traveller stop, so passing-through search traffic is money left on the table. NAME CONFLICT: Kalama Chamber says 'Antique Deli'; Yelp, Zmenu, Restaurantji and Sirved all say 'Antique Deli & Pastry Shoppe'. Confirm hours firsthand — the aggregators disagree and none are authoritative.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "classy-closet-kalama",
+    "name": "Classy Closet",
+    "category": "thrift",
+    "theme": "thrift",
+    "schemaType": "Store",
+    "tagline": "New stock on the floor every single day.",
+    "eyebrow": "Kalama, WA",
+    "street": "",
+    "city": "Kalama",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Clothing",
+        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
+      },
+      {
+        "title": "Housewares",
+        "desc": "Kitchen, glassware, small appliances, and linens."
+      },
+      {
+        "title": "Furniture",
+        "desc": "Couches, tables, dressers, and shelving."
+      },
+      {
+        "title": "Books, Media & Toys",
+        "desc": "Paperbacks, records, games, and puzzles."
+      },
+      {
+        "title": "Donations Welcome",
+        "desc": "REPLACE: donation hours and what you can and cannot accept."
+      },
+      {
+        "title": "Weekly Deals",
+        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
+      }
+    ],
+    "aboutHeading": "About Us",
+    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Local directory listings only, with no website on either — no owned domain found for the Kalama shop",
+      "sources": [
+        "https://www.kalamachamber.com/directory",
+        "https://discoverkalama.com/places_categories/gift-shops/",
+        "https://portofkalama.visitwidget.com/places/classy-closet"
+      ],
+      "verify": "THINNEST LEAD OF THIS SET — beyond name, town, address and 'resale clothing boutique', ownership, tenure and review volume are all unconfirmed. READ BEFORE SEARCHING: 'Classy Closet' is heavily duplicated — classyclosetconsignmentandboutique.com (Bellevue, IOWA), the-classy-closet.com, classyclosetshop.com (northwest Iowa) and an eBay store are all DIFFERENT businesses. Pin this one by its address, 145 Fir St, Kalama. NOTE: that is the same address as The Nail Nook — likely a shared building, so establish whether they are separate businesses and who holds the storefront before pitching either. NAME CONFLICT: chamber says 'Classy Closet Boutique' under Resale Fashion; the other two say 'Classy Closet' under gift shops.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "nail-nook-kalama",
+    "name": "The Nail Nook",
+    "category": "nails",
+    "theme": "salon",
+    "schemaType": "NailSalon",
+    "tagline": "Clean work, careful prep, and colors that last.",
+    "eyebrow": "Kalama, WA",
+    "street": "",
+    "city": "Kalama",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Tue – Sat",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sun – Mon",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Manicure",
+        "desc": "Shape, cuticle care, buff, and polish."
+      },
+      {
+        "title": "Pedicure",
+        "desc": "Soak, exfoliation, callus care, massage, and polish."
+      },
+      {
+        "title": "Gel & Dip",
+        "desc": "Long-wear color with proper prep and removal."
+      },
+      {
+        "title": "Acrylic & Extensions",
+        "desc": "Full sets, fills, and repairs."
+      },
+      {
+        "title": "Nail Art",
+        "desc": "Freehand designs, chrome, ombré, and hand-set stones."
+      },
+      {
+        "title": "Waxing",
+        "desc": "REPLACE: list the waxing services offered, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Salon",
+    "about": "REPLACE: who the technicians are, their training, and the salon atmosphere.\n\nREPLACE: sanitation practices and booking policy.",
+    "galleryTiles": 8,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook and Instagram only — no owned domain confirmed for the Kalama location",
+      "sources": [
+        "https://www.kalamachamber.com/directory",
+        "https://www.yelp.com/biz/the-nail-nook-kalama",
+        "https://www.facebook.com/p/The-Nail-Nook-61571553253516/"
+      ],
+      "verify": "THIS ONE NEEDS A DIFFERENT PITCH SHAPE. The shop is described as a group of individual nail artists sharing a space, each running their own business within the business — so there may be no single decision-maker and no single budget. Find out who holds the lease before pitching a whole-salon site; a shared 'meet the artists' page with per-artist booking links is the shape that actually fits. CAUTION: 'The Nail Nook' collides with several unrelated salons (thenailnooksc.com, a Wix page, a Vagaro booking page, a Square booking link) and the scout could NOT confirm which if any belongs to Kalama. Even if the Square page is theirs it is a booking link, not a site, so the lead stands — but do not assume. Same address as Classy Closet.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "cafe-aromaz-toledo",
+    "name": "Cafe Aromaz",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Toledo, WA",
+    "street": "",
+    "city": "Toledo",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page plus an auto-generated aggregator subdomain it almost certainly does not control — no owned domain",
+      "sources": [
+        "https://www.southlewiscountychamber.com/our-members",
+        "https://www.yelp.com/biz/cafe-aromaz-toledo",
+        "https://www.restaurantji.com/wa/toledo/cafe-aromaz-/"
+      ],
+      "verify": "OPENING WORTH USING: the only domain-looking result, cafe-aromaz.res-menu.net, is a scraped menu-aggregator subdomain. Confirm the owner did not build it — a business auto-listed without consent is unusually receptive to owning its own page. Angles: they pour a named specialty roaster's beans (real differentiation), sell handmade gifts alongside coffee (soaps, candles, personalised cups), and are dog-friendly. Restaurantji shows 46 reviews with 24 photos. WATCH THE SPELLING — the roaster name is rendered two ways across sources and one Nextdoor page misspells the business itself as 'Cafe Amoraz'. Confirm hours too: sources show weekdays only with an early Friday close and no weekends, which is unusual for a cafe and may be stale.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "marcelo-auto-tech-toledo",
+    "name": "Marcelo Auto Tech LLC",
+    "category": "autorepair",
+    "theme": "auto",
+    "schemaType": "AutoRepair",
+    "tagline": "Straight answers and work that holds up.",
+    "eyebrow": "Toledo, WA",
+    "street": "",
+    "city": "Toledo",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Diagnostics",
+        "desc": "Check-engine codes read and traced to the actual cause."
+      },
+      {
+        "title": "Brakes & Suspension",
+        "desc": "Pads, rotors, shocks, struts, and alignment."
+      },
+      {
+        "title": "Engine & Transmission",
+        "desc": "Timing, cooling, leaks, and driveline work."
+      },
+      {
+        "title": "Scheduled Maintenance",
+        "desc": "Oil, filters, fluids, and factory-interval service."
+      },
+      {
+        "title": "Tires & Wheels",
+        "desc": "Mount, balance, rotate, and repair."
+      },
+      {
+        "title": "Off-Road & Lift Kits",
+        "desc": "REPLACE: suspension lifts, armor, and build work — or remove."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the mechanics are, years in the trade, and certifications.\n\nREPLACE: warranty terms and how estimates are handled.",
+    "galleryTiles": 4,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page and third-party listings (BBB, Manta, Nextdoor, Giftly) — no owned domain found",
+      "sources": [
+        "https://southlewiscountychamber.com/member/marcelo-auto-tech-llc/",
+        "https://www.facebook.com/p/Regino-Marcelos-Auto-Repair-100054205373934/",
+        "https://www.bbb.org/us/wa/toledo/profile/auto-repair/marcelos-auto-repair-inc-1296-29025435"
+      ],
+      "verify": "SORT THE NAME OUT FIRST — three different legal-sounding names across three sources: chamber says 'Marcelo Auto Tech LLC', Facebook and Nextdoor say 'Regino Marcelo's Auto Repair', BBB says 'Marcelo's Auto Repair Inc'. Establish whether that is one business, a rename, or an LLC with a DBA before addressing anyone. Angle: 4.7 from 55+ customers, described as a Toledo staple, with range worth leading on — diesel engines through classic cars plus routine brakes and oil. A shop with that breadth and no site is losing searches for the specialty work, which is the higher-margin half. Several Toledo-area competitors already carry websites in the same chamber list.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "justice-general-store-onalaska",
+    "name": "Justice General Store",
+    "category": "market",
+    "theme": "market",
+    "schemaType": "GroceryStore",
+    "tagline": "Your neighborhood grocery and deli.",
+    "eyebrow": "Onalaska, WA",
+    "street": "",
+    "city": "Onalaska",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Deli Counter",
+        "desc": "Sandwiches, salads, and sliced-to-order meats and cheeses."
+      },
+      {
+        "title": "Fresh Produce",
+        "desc": "REPLACE: note local growers or seasonal highlights."
+      },
+      {
+        "title": "Meat & Seafood",
+        "desc": "REPLACE: butcher counter details, or remove this card."
+      },
+      {
+        "title": "Pantry & Staples",
+        "desc": "Everything for the week without the drive to a big store."
+      },
+      {
+        "title": "Beer & Wine",
+        "desc": "REPLACE: selection notes, or remove this card."
+      },
+      {
+        "title": "Catering Trays",
+        "desc": "REPLACE: lead time and tray sizes, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Market",
+    "about": "REPLACE: how long the market has served the area and who runs it.\n\nREPLACE: local suppliers, house-made items, or the deli specialty.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page and directory listings (Manta, Yelp, Nextdoor, Roadtrippers) — no owned domain found",
+      "sources": [
+        "https://www.southlewiscountychamber.com/our-members",
+        "https://www.facebook.com/justicegeneralstore/",
+        "https://www.manta.com/c/mmj7qw1/justice-general-store"
+      ],
+      "verify": "DO NOT OVER-SCOPE — this is a convenience store, so the realistic sell is hours, location and Main Street presence, not e-commerce. Best tenure story in the set: Manta gives a founding year of 1986, roughly 40 years, and an anniversary would be the entire pitch — but Manta data is self-reported and unreliable, so confirm with the owner. Chamber uses the formal name with an 'Inc' suffix while every consumer-facing listing drops it; use the right one on an invoice. Onalaska is unincorporated and one source files it as 'Onalaska Hamlet, Lewis County' — check how the owner writes the address.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "the-carlisle-onalaska",
+    "name": "The Carlisle",
+    "category": "restaurant",
+    "theme": "market",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Onalaska, WA",
+    "street": "",
+    "city": "Onalaska",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
+      },
+      {
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
+      },
+      {
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
+      },
+      {
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
+      },
+      {
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
+      },
+      {
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Menu-aggregator pages only (Zmenu, MenuPix, mymenuweb, menu-world, Restaurantji) plus Yelp — the chamber directory confirms no website",
+      "sources": [
+        "https://www.southlewiscountychamber.com/our-members",
+        "https://www.yelp.com/biz/the-carlisle-onalaska",
+        "https://restaurantguru.com/The-Carlisle-Onalaska-Washington"
+      ],
+      "verify": "STRONGEST COMMERCIAL ANGLE OF THE RESTAURANTS HERE — 4.1 across 216 reviews and ranked #1 of 4 in Onalaska, rustic logger theme, sports-bar atmosphere, breakfast through dinner, open to midnight Fri/Sat. Reviewers name prime rib and New York steak. A steak house whose menu exists only on five scraped aggregator sites it does not control is the textbook 'own your menu and reservation path' case. NAME CONFLICT: Yelp and chamber say 'The Carlisle', Zmenu files it as 'The Carlisle Bar and Grill'. Confirm hours firsthand — the aggregators list a complex schedule that is easy to get wrong.",
+      "region": "SW WA"
+    }
+  },
+  {
+    "slug": "perks-espresso-concrete",
+    "name": "Perks Espresso & Deli",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Concrete, WA",
+    "street": "",
+    "city": "Concrete",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only plus Yelp/TripAdvisor/Roadtrippers/KOA listings — no owned domain found",
+      "sources": [
+        "https://concrete-wa.com/business-directory-listings/perks-espresso-deli/",
+        "https://www.facebook.com/NorthCascadesPerks/",
+        "https://opengovwa.com/corporation/604544161"
+      ],
+      "verify": "NAME CONFLICT — the Concrete chamber says 'Perks Espresso & Deli'; the Facebook page and the WA corporate record both say 'North Cascade's / North Cascades Perks Espresso & Deli LLC'. Confirm which the owner uses. Angle: 56 Yelp reviews plus a KOA campground food-partner listing means real inbound tourist traffic on the Hwy 20 / North Cascades corridor with nothing to send it to. Good competitive hook — several Concrete competitors already show websites in the same chamber directory.",
+      "region": "NW WA"
+    }
+  },
+  {
+    "slug": "outdoor-ventures-concrete",
+    "name": "Outdoor Ventures",
+    "category": "boutique",
+    "theme": "boutique",
+    "schemaType": "ClothingStore",
+    "tagline": "A small shop with a point of view.",
+    "eyebrow": "Concrete, WA",
+    "street": "",
+    "city": "Concrete",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Apparel",
+        "desc": "REPLACE: the categories and sizes carried."
+      },
+      {
+        "title": "Accessories",
+        "desc": "Bags, scarves, hats, and jewelry."
+      },
+      {
+        "title": "Gifts",
+        "desc": "Cards, candles, and small-batch goods."
+      },
+      {
+        "title": "Local Makers",
+        "desc": "REPLACE: name the local artists and brands carried."
+      },
+      {
+        "title": "Gift Wrapping",
+        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+      },
+      {
+        "title": "Personal Shopping",
+        "desc": "REPLACE: describe or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "No website — the chamber listing has an empty website field, and Yelp/Foursquare/YellowPages entries are all third-party",
+      "sources": [
+        "https://concrete-wa.com/business-directory-listings/outdoor-ventures/",
+        "https://concrete-wa.com/business-directory/recreation/",
+        "https://www.yelp.com/biz/outdoor-ventures-concrete"
+      ],
+      "verify": "TRAP ALREADY CLEARED — an aggregator scrape attributes 'outdoorventure.com' to this shop. The scout fetched it: that is Outdoor Venture Corporation, a military tent manufacturer in Stearns, Kentucky. Completely unrelated. Do not let the owner believe they already have a site. HOURS CONFLICT: chamber says Tue-Sat 10am-6:30pm closed Sunday; Yelp-derived data says Mon-Fri 9am-6pm. Angle: a tackle and sporting goods shop whose whole value is fishing-report knowledge for the Skagit and Baker rivers — a seasonal 'what's biting / licences / bait in stock' page is a natural fit, and licence sales draw search traffic.",
+      "region": "NW WA"
+    }
+  },
+  {
+    "slug": "pegs-rags-granite-falls",
+    "name": "Peg's Rags Vintage & Thrift",
+    "category": "thrift",
+    "theme": "thrift",
+    "schemaType": "Store",
+    "tagline": "New stock on the floor every single day.",
+    "eyebrow": "Granite Falls, WA",
+    "street": "",
+    "city": "Granite Falls",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Clothing",
+        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
+      },
+      {
+        "title": "Housewares",
+        "desc": "Kitchen, glassware, small appliances, and linens."
+      },
+      {
+        "title": "Furniture",
+        "desc": "Couches, tables, dressers, and shelving."
+      },
+      {
+        "title": "Books, Media & Toys",
+        "desc": "Paperbacks, records, games, and puzzles."
+      },
+      {
+        "title": "Donations Welcome",
+        "desc": "REPLACE: donation hours and what you can and cannot accept."
+      },
+      {
+        "title": "Weekly Deals",
+        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
+      }
+    ],
+    "aboutHeading": "About Us",
+    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only, plus Yelp, TripAdvisor, Roadtrippers, n49 and mylocalthriftstore listings — no owned domain found",
+      "sources": [
+        "https://www.granitefallswa.com/member-directory",
+        "https://www.facebook.com/p/Pegs-Rags-Vintage-Thrift-100089036633516/",
+        "https://www.yelp.com/biz/pegs-rags-vintage-and-thrift-granite-falls"
+      ],
+      "verify": "HOURS CONFLICT — their own Facebook post says Tues-Sat 11-5; aggregator data says Wed-Sat 11-5 plus Sun 10-4. Their own post is likelier right, but confirm before hours go on any page. NAME CONFLICT: chamber writes 'and', their storefront and Facebook use '&'. Address and phone are consistent across sources. Angle: they sit right at the entrance to the Mountain Loop Highway and catch seasonal tourist traffic, and an ever-rotating vintage inventory is exactly what a 'new arrivals' gallery serves better than a Facebook feed.",
+      "region": "NW WA"
+    }
+  },
+  {
+    "slug": "artistic-yard-care-granite-falls",
+    "name": "Artistic Yard Care",
+    "category": "homeservices",
+    "theme": "trade",
+    "schemaType": "HomeAndConstructionBusiness",
+    "tagline": "Licensed, bonded, and on time.",
+    "eyebrow": "Granite Falls, WA",
+    "street": "",
+    "city": "Granite Falls",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Free Estimates",
+        "desc": "REPLACE: how to book and what an estimate covers."
+      },
+      {
+        "title": "Residential Work",
+        "desc": "REPLACE: the core residential service offered."
+      },
+      {
+        "title": "Commercial Work",
+        "desc": "REPLACE: the core commercial service, or remove this card."
+      },
+      {
+        "title": "Emergency Service",
+        "desc": "REPLACE: hours and response time, or remove this card."
+      },
+      {
+        "title": "Maintenance Plans",
+        "desc": "REPLACE: describe recurring service, or remove this card."
+      },
+      {
+        "title": "Warranty",
+        "desc": "REPLACE: what is covered and for how long."
+      }
+    ],
+    "aboutHeading": "About the Crew",
+    "about": "REPLACE: who owns the business, years in the trade, and the service area.\n\nREPLACE: license number, insurance, and how estimates work.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — chamber listing shows no website and the contact email is a gmail address",
+      "sources": [
+        "https://www.granitefallswa.com/member-directory",
+        "https://www.facebook.com/ArtisticYardMan",
+        "https://granitefallswa.com/memberdirectory/8468/artistic-yard-care/"
+      ],
+      "verify": "STRONGEST COMPETITIVE SETUP IN THIS BATCH — in the same Granite Falls chamber 'Home & Construction' category, four competitors list websites while this business and one other do not. That is a literal 'your competitors in your own chamber directory are ahead of you' pitch. A landscaper also has visual before/after work that a Facebook feed buries. Confirm the listed contact name and number are current — a 206 area code on a Granite Falls address is worth asking about.",
+      "region": "NW WA"
+    }
+  },
+  {
+    "slug": "foothills-automotive-granite-falls",
+    "name": "Foothills Automotive",
+    "category": "autorepair",
+    "theme": "auto",
+    "schemaType": "AutoRepair",
+    "tagline": "Straight answers and work that holds up.",
+    "eyebrow": "Granite Falls, WA",
+    "street": "",
+    "city": "Granite Falls",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Diagnostics",
+        "desc": "Check-engine codes read and traced to the actual cause."
+      },
+      {
+        "title": "Brakes & Suspension",
+        "desc": "Pads, rotors, shocks, struts, and alignment."
+      },
+      {
+        "title": "Engine & Transmission",
+        "desc": "Timing, cooling, leaks, and driveline work."
+      },
+      {
+        "title": "Scheduled Maintenance",
+        "desc": "Oil, filters, fluids, and factory-interval service."
+      },
+      {
+        "title": "Tires & Wheels",
+        "desc": "Mount, balance, rotate, and repair."
+      },
+      {
+        "title": "Off-Road & Lift Kits",
+        "desc": "REPLACE: suspension lifts, armor, and build work — or remove."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the mechanics are, years in the trade, and certifications.\n\nREPLACE: warranty terms and how estimates are handled.",
+    "galleryTiles": 4,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "A domain exists but the scout fetched it and found only 'We're under construction. Please check back for an update soon.' No real site; no Facebook business page found, only a grand-opening post in a local group",
+      "sources": [
+        "https://www.granitefallswa.com/member-directory",
+        "https://foothillsautomotive.com",
+        "https://www.carfax.com/Reviews-J-and-K-Auto-Granite-Falls-WA_F37DEM5001"
+      ],
+      "verify": "READ ALL THREE CAUTIONS BEFORE PITCHING. (1) NAME COLLISION — there is an unrelated, well-established Foothills Automotive in Granite Falls, NORTH CAROLINA, and most web results for the name are that business. The WA one is confirmed by the Granite Falls WA chamber listing and a WA-local Facebook grand-opening post. Make sure you are calling the WA shop. (2) DOMAIN OWNERSHIP UNVERIFIED — the chamber lists an @foothillsautomotive.com email for the owner, which suggests he controls it, but the scout could not prove the parked page is his rather than the NC shop's. Run a WHOIS check first. If he owns it, the pitch writes itself: he already paid for a domain that has sat on a placeholder. (3) CARFAX shows the same address as 'J&K Auto', so this is likely a recent takeover — ask about it, a new owner building a customer base is a receptive one.",
+      "region": "NW WA"
+    }
+  },
+  {
+    "slug": "shop-n-save-concrete",
+    "name": "Shop n Save America",
+    "category": "market",
+    "theme": "market",
+    "schemaType": "GroceryStore",
+    "tagline": "Your neighborhood grocery and deli.",
+    "eyebrow": "Concrete, WA",
+    "street": "",
+    "city": "Concrete",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Deli Counter",
+        "desc": "Sandwiches, salads, and sliced-to-order meats and cheeses."
+      },
+      {
+        "title": "Fresh Produce",
+        "desc": "REPLACE: note local growers or seasonal highlights."
+      },
+      {
+        "title": "Meat & Seafood",
+        "desc": "REPLACE: butcher counter details, or remove this card."
+      },
+      {
+        "title": "Pantry & Staples",
+        "desc": "Everything for the week without the drive to a big store."
+      },
+      {
+        "title": "Beer & Wine",
+        "desc": "REPLACE: selection notes, or remove this card."
+      },
+      {
+        "title": "Catering Trays",
+        "desc": "REPLACE: lead time and tray sizes, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Market",
+    "about": "REPLACE: how long the market has served the area and who runs it.\n\nREPLACE: local suppliers, house-made items, or the deli specialty.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "No website — chamber website field is empty; only Yelp, Yahoo Local, Waze, Roadtrippers, grocergaps and Skagit Directory entries",
+      "sources": [
+        "https://concrete-wa.com/business-directory-listings/shop-n-save-america/",
+        "https://www.yelp.com/biz/shop-n-save-america-concrete",
+        "https://www.skagitvalleydirectory.com/biz/31485/shop-save-america"
+      ],
+      "verify": "TWO CONFLICTS. Name renders three ways ('Shop n Save America', 'Shop and Save America', 'Shop & Save America') — ask which is correct. PHONE CONFLICT: chamber lists (360) 999-8905; Yahoo Local lists (206) 892-8238. Print neither until confirmed. Angle: the chamber describes it as a 'Little Costco' — bulk and discount groceries in a town whose only other grocery is now owned by a multi-state operator. An independent discount grocer with a weekly-deals page is a real differentiator, and the early closing time is worth clarifying on a site since travellers up Hwy 20 assume grocery stores stay open late.",
+      "region": "NW WA"
+    }
+  },
+  {
+    "slug": "young-market-concrete",
+    "name": "Young Market",
+    "category": "market",
+    "theme": "market",
+    "schemaType": "GroceryStore",
+    "tagline": "Your neighborhood grocery and deli.",
+    "eyebrow": "Concrete, WA",
+    "street": "",
+    "city": "Concrete",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Deli Counter",
+        "desc": "Sandwiches, salads, and sliced-to-order meats and cheeses."
+      },
+      {
+        "title": "Fresh Produce",
+        "desc": "REPLACE: note local growers or seasonal highlights."
+      },
+      {
+        "title": "Meat & Seafood",
+        "desc": "REPLACE: butcher counter details, or remove this card."
+      },
+      {
+        "title": "Pantry & Staples",
+        "desc": "Everything for the week without the drive to a big store."
+      },
+      {
+        "title": "Beer & Wine",
+        "desc": "REPLACE: selection notes, or remove this card."
+      },
+      {
+        "title": "Catering Trays",
+        "desc": "REPLACE: lead time and tray sizes, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Market",
+    "about": "REPLACE: how long the market has served the area and who runs it.\n\nREPLACE: local suppliers, house-made items, or the deli specialty.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook only per the chamber directory, plus an auto-generated third-party microsite (edan.io) that is not an owned domain",
+      "sources": [
+        "https://concrete-wa.com/business-directory-listings/young-market/",
+        "https://young-market.edan.io/",
+        "https://www.chamberofcommerce.com/united-states/washington/concrete/convenience-store/2001884691-young-market"
+      ],
+      "verify": "GOOD OPENING: confirm the owner knows about the young-market.edan.io page — it is a scraped auto-generated microsite they likely never created and may not control, which means someone else is currently ranking on their name. NAME CONFLICT: chamber and most listings say 'Young Market'; one aggregator URL says 'youngs-market'. Confirm whether there is an apostrophe-s. Angle: 4.4 from 28 reviews and daily 8am-10pm hours per aggregator data — the longest hours of any Concrete retailer the scout saw, which is genuinely useful information existing nowhere they control. HONEST CAVEAT: no owner name and no tenure established.",
+      "region": "NW WA"
+    }
+  },
+  {
+    "slug": "back-to-basics-concrete",
+    "name": "Back to Basics",
+    "category": "homeservices",
+    "theme": "trade",
+    "schemaType": "HomeAndConstructionBusiness",
+    "tagline": "Licensed, bonded, and on time.",
+    "eyebrow": "Concrete, WA",
+    "street": "",
+    "city": "Concrete",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Free Estimates",
+        "desc": "REPLACE: how to book and what an estimate covers."
+      },
+      {
+        "title": "Residential Work",
+        "desc": "REPLACE: the core residential service offered."
+      },
+      {
+        "title": "Commercial Work",
+        "desc": "REPLACE: the core commercial service, or remove this card."
+      },
+      {
+        "title": "Emergency Service",
+        "desc": "REPLACE: hours and response time, or remove this card."
+      },
+      {
+        "title": "Maintenance Plans",
+        "desc": "REPLACE: describe recurring service, or remove this card."
+      },
+      {
+        "title": "Warranty",
+        "desc": "REPLACE: what is covered and for how long."
+      }
+    ],
+    "aboutHeading": "About the Crew",
+    "about": "REPLACE: who owns the business, years in the trade, and the service area.\n\nREPLACE: license number, insurance, and how estimates work.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "No website and no social presence found at all — the Concrete chamber directory is the only source that describes this business",
+      "sources": [
+        "https://concrete-wa.com/business-directory/services/",
+        "https://concrete-wa.com/business-directory-listings/back-to-basics/"
+      ],
+      "verify": "BE HONEST ABOUT HOW THIN THIS IS — the chamber listing is the ONLY source. No Facebook, no Yelp, no reviews, no owner name, no hours. Everything beyond 'mending, quilting and alterations in the Concrete area' plus a street address and phone is unknown. SHARED-CONTACT FLAG: this business and Concrete Laundromat are listed at the IDENTICAL address and the IDENTICAL phone number. They are almost certainly the same storefront or the same owner — confirm before pitching either, and consider pitching them as a single client. Angle: an alterations business with zero web footprint is invisible to anyone searching 'alterations near me' in east Skagit County; the whole pitch is that they do not exist online at all.",
+      "region": "NW WA"
+    }
+  },
+  {
+    "slug": "concrete-laundromat",
+    "name": "Concrete Laundromat",
+    "category": "homeservices",
+    "theme": "trade",
+    "schemaType": "HomeAndConstructionBusiness",
+    "tagline": "Licensed, bonded, and on time.",
+    "eyebrow": "Concrete, WA",
+    "street": "",
+    "city": "Concrete",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Free Estimates",
+        "desc": "REPLACE: how to book and what an estimate covers."
+      },
+      {
+        "title": "Residential Work",
+        "desc": "REPLACE: the core residential service offered."
+      },
+      {
+        "title": "Commercial Work",
+        "desc": "REPLACE: the core commercial service, or remove this card."
+      },
+      {
+        "title": "Emergency Service",
+        "desc": "REPLACE: hours and response time, or remove this card."
+      },
+      {
+        "title": "Maintenance Plans",
+        "desc": "REPLACE: describe recurring service, or remove this card."
+      },
+      {
+        "title": "Warranty",
+        "desc": "REPLACE: what is covered and for how long."
+      }
+    ],
+    "aboutHeading": "About the Crew",
+    "about": "REPLACE: who owns the business, years in the trade, and the service area.\n\nREPLACE: license number, insurance, and how estimates work.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "No website — chamber listing has no website field and the contact is a yahoo.com address; no Facebook page found",
+      "sources": [
+        "https://concrete-wa.com/business-directory/services/",
+        "https://concrete-wa.com/business-directory-listings/concrete-laundromat/"
+      ],
+      "verify": "SHARED-CONTACT FLAG — same street address and same phone as Back to Basics above; treat as likely one owner and confirm on the call. The listing email gives a probable owner surname to ask for. Angle: laundromats live or die on 'is it open / does it take cards / how big are the machines', and this one serves a town on the North Cascades tourist corridor with campgrounds and an RV park nearby — a one-pager with hours, machine sizes and payment types is low effort and immediately useful. HONEST CAVEAT: like Back to Basics, the chamber is the only source; no reviews or tenure exist that the scout could find.",
+      "region": "NW WA"
+    }
   }
 ]

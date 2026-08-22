@@ -86,9 +86,9 @@ attributable quotes are supplied; the generator never writes one.
 
 ## The leads
 
-`businesses.json` is loaded with 25 real Washington businesses that appear to
+`businesses.json` is loaded with 73 real Washington businesses that appear to
 have no website — found through public directory and review listings, spread
-across 16 towns from Aberdeen to Cle Elum.
+across 41 towns and six regions, from the Olympic Peninsula to the Palouse.
 
     node scripts/leads.js    # regenerate LEADS.md
 
@@ -112,6 +112,7 @@ first.
     scripts/categories.js    per-category section scaffolding
     scripts/new-site.js      add a business from the command line
     scripts/check.js         readiness gate
+    scripts/add-batch.js     merge a batch of scouted leads into the config
     scripts/leads.js         regenerate LEADS.md from businesses.json
     BRIEFING.md              state of play — read this first when picking work back up
     scripts/seed.js          one-time: lay down blank slots

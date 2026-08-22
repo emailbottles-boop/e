@@ -598,6 +598,19 @@ function main() {
 
   fs.mkdirSync(DIST, { recursive: true });
 
+  // On a full build, drop output for slugs no longer in the config so a
+  // removed or renamed business cannot linger in dist/ and get reviewed or
+  // shipped by mistake.
+  if (!only.length) {
+    const keep = new Set(list.map((b) => b.slug));
+    for (const name of fs.readdirSync(DIST)) {
+      const p = path.join(DIST, name);
+      if (!fs.statSync(p).isDirectory() || keep.has(name)) continue;
+      fs.rmSync(p, { recursive: true, force: true });
+      console.log(`pruned dist/${name}  (no longer in businesses.json)`);
+    }
+  }
+
   for (const b of targets) {
     const theme = themes[b.theme] || themes[Object.keys(themes)[0]];
     const out = path.join(DIST, b.slug);

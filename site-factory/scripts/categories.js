@@ -173,6 +173,24 @@ const CATEGORIES = {
     ],
   },
 
+  restaurant: {
+    theme: 'market',
+    schemaType: 'Restaurant',
+    tagline: 'Honest food, made from scratch.',
+    aboutHeading: 'About the Kitchen',
+    about:
+      'REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.',
+    galleryTiles: 6,
+    services: [
+      { title: 'Breakfast', desc: 'REPLACE: what is served and until when.' },
+      { title: 'Lunch', desc: 'REPLACE: sandwiches, burgers, soups — name the ones people come back for.' },
+      { title: 'Dinner', desc: 'REPLACE: the dinner menu, or remove this card if breakfast and lunch only.' },
+      { title: 'Homemade Daily', desc: 'REPLACE: soups, pies, gravy — whatever is genuinely made in house.' },
+      { title: 'Bar', desc: 'REPLACE: beer, wine, cocktails — or remove this card.' },
+      { title: 'Takeout & Catering', desc: 'REPLACE: how to order ahead, or remove this card.' },
+    ],
+  },
+
   professional: {
     theme: 'professional',
     schemaType: 'ProfessionalService',

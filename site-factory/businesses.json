@@ -1,489 +1,7 @@
 [
   {
-    "slug": "coffee-kent",
-    "name": "REPLACE: Business Name",
-    "category": "coffee",
-    "theme": "coffee",
-    "schemaType": "CafeOrCoffeeShop",
-    "tagline": "Small-batch espresso, pulled to order.",
-    "eyebrow": "Kent, WA",
-    "street": "",
-    "city": "Kent",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Mon – Fri",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Saturday",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sunday",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Espresso Bar",
-        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
-      },
-      {
-        "title": "Drip & Pour-Over",
-        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
-      },
-      {
-        "title": "Cold Brew & Iced",
-        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
-      },
-      {
-        "title": "Tea & Non-Coffee",
-        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
-      },
-      {
-        "title": "Fresh Pastries",
-        "desc": "Baked goods delivered each morning."
-      },
-      {
-        "title": "Drive-Thru",
-        "desc": "Order from the window — most drinks out in under three minutes."
-      }
-    ],
-    "aboutHeading": "Our Story",
-    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
-    "galleryTiles": 6,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "coffee-covington",
-    "name": "REPLACE: Business Name",
-    "category": "coffee",
-    "theme": "coffee",
-    "schemaType": "CafeOrCoffeeShop",
-    "tagline": "Small-batch espresso, pulled to order.",
-    "eyebrow": "Covington, WA",
-    "street": "",
-    "city": "Covington",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Mon – Fri",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Saturday",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sunday",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Espresso Bar",
-        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
-      },
-      {
-        "title": "Drip & Pour-Over",
-        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
-      },
-      {
-        "title": "Cold Brew & Iced",
-        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
-      },
-      {
-        "title": "Tea & Non-Coffee",
-        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
-      },
-      {
-        "title": "Fresh Pastries",
-        "desc": "Baked goods delivered each morning."
-      },
-      {
-        "title": "Drive-Thru",
-        "desc": "Order from the window — most drinks out in under three minutes."
-      }
-    ],
-    "aboutHeading": "Our Story",
-    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
-    "galleryTiles": 6,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "coffee-enumclaw",
-    "name": "REPLACE: Business Name",
-    "category": "coffee",
-    "theme": "coffee",
-    "schemaType": "CafeOrCoffeeShop",
-    "tagline": "Small-batch espresso, pulled to order.",
-    "eyebrow": "Enumclaw, WA",
-    "street": "",
-    "city": "Enumclaw",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Mon – Fri",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Saturday",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sunday",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Espresso Bar",
-        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
-      },
-      {
-        "title": "Drip & Pour-Over",
-        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
-      },
-      {
-        "title": "Cold Brew & Iced",
-        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
-      },
-      {
-        "title": "Tea & Non-Coffee",
-        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
-      },
-      {
-        "title": "Fresh Pastries",
-        "desc": "Baked goods delivered each morning."
-      },
-      {
-        "title": "Drive-Thru",
-        "desc": "Order from the window — most drinks out in under three minutes."
-      }
-    ],
-    "aboutHeading": "Our Story",
-    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
-    "galleryTiles": 6,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "coffee-burien",
-    "name": "REPLACE: Business Name",
-    "category": "coffee",
-    "theme": "coffee",
-    "schemaType": "CafeOrCoffeeShop",
-    "tagline": "Small-batch espresso, pulled to order.",
-    "eyebrow": "Burien, WA",
-    "street": "",
-    "city": "Burien",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Mon – Fri",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Saturday",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sunday",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Espresso Bar",
-        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
-      },
-      {
-        "title": "Drip & Pour-Over",
-        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
-      },
-      {
-        "title": "Cold Brew & Iced",
-        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
-      },
-      {
-        "title": "Tea & Non-Coffee",
-        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
-      },
-      {
-        "title": "Fresh Pastries",
-        "desc": "Baked goods delivered each morning."
-      },
-      {
-        "title": "Drive-Thru",
-        "desc": "Order from the window — most drinks out in under three minutes."
-      }
-    ],
-    "aboutHeading": "Our Story",
-    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
-    "galleryTiles": 6,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "petgrooming-maple-valley",
-    "name": "REPLACE: Business Name",
-    "category": "petgrooming",
-    "theme": "pets",
-    "schemaType": "PetStore",
-    "tagline": "Gentle, unhurried grooming for dogs and cats.",
-    "eyebrow": "Maple Valley, WA",
-    "street": "",
-    "city": "Maple Valley",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Tue – Sat",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sun – Mon",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Full Groom",
-        "desc": "Bath, blow-out, haircut, nails, ears, and a finishing brush."
-      },
-      {
-        "title": "Bath & Brush",
-        "desc": "Wash, dry, deshed, and tidy-up without a full cut."
-      },
-      {
-        "title": "Nail Trim & Grind",
-        "desc": "Quick walk-in service, no appointment needed."
-      },
-      {
-        "title": "De-Shedding Treatment",
-        "desc": "Undercoat removal for double-coated breeds."
-      },
-      {
-        "title": "Puppy First Groom",
-        "desc": "A short, low-stress introduction to the grooming table."
-      },
-      {
-        "title": "Cat Grooming",
-        "desc": "Baths, lion cuts, and nail caps by appointment."
-      }
-    ],
-    "aboutHeading": "About the Shop",
-    "about": "REPLACE: who the groomer is, how long they have been doing this, and their approach to nervous animals.\n\nREPLACE: certifications, handling philosophy, or what makes the shop different.",
-    "galleryTiles": 6,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "petgrooming-federal-way",
-    "name": "REPLACE: Business Name",
-    "category": "petgrooming",
-    "theme": "pets",
-    "schemaType": "PetStore",
-    "tagline": "Gentle, unhurried grooming for dogs and cats.",
-    "eyebrow": "Federal Way, WA",
-    "street": "",
-    "city": "Federal Way",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Tue – Sat",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sun – Mon",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Full Groom",
-        "desc": "Bath, blow-out, haircut, nails, ears, and a finishing brush."
-      },
-      {
-        "title": "Bath & Brush",
-        "desc": "Wash, dry, deshed, and tidy-up without a full cut."
-      },
-      {
-        "title": "Nail Trim & Grind",
-        "desc": "Quick walk-in service, no appointment needed."
-      },
-      {
-        "title": "De-Shedding Treatment",
-        "desc": "Undercoat removal for double-coated breeds."
-      },
-      {
-        "title": "Puppy First Groom",
-        "desc": "A short, low-stress introduction to the grooming table."
-      },
-      {
-        "title": "Cat Grooming",
-        "desc": "Baths, lion cuts, and nail caps by appointment."
-      }
-    ],
-    "aboutHeading": "About the Shop",
-    "about": "REPLACE: who the groomer is, how long they have been doing this, and their approach to nervous animals.\n\nREPLACE: certifications, handling philosophy, or what makes the shop different.",
-    "galleryTiles": 6,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "petgrooming-burien",
-    "name": "REPLACE: Business Name",
-    "category": "petgrooming",
-    "theme": "pets",
-    "schemaType": "PetStore",
-    "tagline": "Gentle, unhurried grooming for dogs and cats.",
-    "eyebrow": "Burien, WA",
-    "street": "",
-    "city": "Burien",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Tue – Sat",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sun – Mon",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Full Groom",
-        "desc": "Bath, blow-out, haircut, nails, ears, and a finishing brush."
-      },
-      {
-        "title": "Bath & Brush",
-        "desc": "Wash, dry, deshed, and tidy-up without a full cut."
-      },
-      {
-        "title": "Nail Trim & Grind",
-        "desc": "Quick walk-in service, no appointment needed."
-      },
-      {
-        "title": "De-Shedding Treatment",
-        "desc": "Undercoat removal for double-coated breeds."
-      },
-      {
-        "title": "Puppy First Groom",
-        "desc": "A short, low-stress introduction to the grooming table."
-      },
-      {
-        "title": "Cat Grooming",
-        "desc": "Baths, lion cuts, and nail caps by appointment."
-      }
-    ],
-    "aboutHeading": "About the Shop",
-    "about": "REPLACE: who the groomer is, how long they have been doing this, and their approach to nervous animals.\n\nREPLACE: certifications, handling philosophy, or what makes the shop different.",
-    "galleryTiles": 6,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "antiques-enumclaw",
-    "name": "REPLACE: Business Name",
+    "slug": "porter-antiques-enumclaw",
+    "name": "Porter Antiques & Trading Co.",
     "category": "antiques",
     "theme": "vintage",
     "schemaType": "Store",
@@ -550,18 +68,26 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + directory listings only — no website found",
+      "sources": [
+        "https://www.facebook.com/Porterantiques/",
+        "https://www.yellowpages.com/enumclaw-wa/mip/porters-antiques-457237000"
+      ],
+      "verify": "Sources conflict on address: 1522 Cole St (YellowPages) vs 1527 Cole St (their Facebook, listed with The Vintage Garden and Young's Floral). Confirm which is current."
+    }
   },
   {
-    "slug": "antiques-kent",
-    "name": "REPLACE: Business Name",
-    "category": "antiques",
-    "theme": "vintage",
-    "schemaType": "Store",
-    "tagline": "Curated antiques, oddities, and honest old things.",
-    "eyebrow": "Kent, WA",
+    "slug": "buckley-plateau-espresso",
+    "name": "Buckley Plateau Espresso",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Buckley, WA",
     "street": "",
-    "city": "Kent",
+    "city": "Buckley",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -585,174 +111,32 @@
     ],
     "services": [
       {
-        "title": "Furniture",
-        "desc": "Solid-wood pieces, mid-century through Victorian."
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
       },
       {
-        "title": "Glassware & China",
-        "desc": "Depression glass, pottery, and full sets."
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
       },
       {
-        "title": "Vintage Decor",
-        "desc": "Signs, lighting, mirrors, and wall art."
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
       },
       {
-        "title": "Jewelry & Smalls",
-        "desc": "Costume and estate jewelry, watches, and curiosities."
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
       },
       {
-        "title": "Estate Buying",
-        "desc": "REPLACE: describe how the shop buys, or remove this card."
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
       },
       {
-        "title": "Booth Rental",
-        "desc": "REPLACE: booth sizes and monthly rates, or remove this card."
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
       }
     ],
-    "aboutHeading": "About the Shop",
-    "about": "REPLACE: how long the shop has been open, what the owner collects, and what walking in feels like.\n\nREPLACE: whether dealers rent booths, and how stock turns over.",
-    "galleryTiles": 8,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "antiques-issaquah",
-    "name": "REPLACE: Business Name",
-    "category": "antiques",
-    "theme": "vintage",
-    "schemaType": "Store",
-    "tagline": "Curated antiques, oddities, and honest old things.",
-    "eyebrow": "Issaquah, WA",
-    "street": "",
-    "city": "Issaquah",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Mon – Fri",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Saturday",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sunday",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Furniture",
-        "desc": "Solid-wood pieces, mid-century through Victorian."
-      },
-      {
-        "title": "Glassware & China",
-        "desc": "Depression glass, pottery, and full sets."
-      },
-      {
-        "title": "Vintage Decor",
-        "desc": "Signs, lighting, mirrors, and wall art."
-      },
-      {
-        "title": "Jewelry & Smalls",
-        "desc": "Costume and estate jewelry, watches, and curiosities."
-      },
-      {
-        "title": "Estate Buying",
-        "desc": "REPLACE: describe how the shop buys, or remove this card."
-      },
-      {
-        "title": "Booth Rental",
-        "desc": "REPLACE: booth sizes and monthly rates, or remove this card."
-      }
-    ],
-    "aboutHeading": "About the Shop",
-    "about": "REPLACE: how long the shop has been open, what the owner collects, and what walking in feels like.\n\nREPLACE: whether dealers rent booths, and how stock turns over.",
-    "galleryTiles": 8,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "thrift-tukwila",
-    "name": "REPLACE: Business Name",
-    "category": "thrift",
-    "theme": "thrift",
-    "schemaType": "Store",
-    "tagline": "New stock on the floor every single day.",
-    "eyebrow": "Tukwila, WA",
-    "street": "",
-    "city": "Tukwila",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Mon – Fri",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Saturday",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sunday",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Clothing",
-        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
-      },
-      {
-        "title": "Housewares",
-        "desc": "Kitchen, glassware, small appliances, and linens."
-      },
-      {
-        "title": "Furniture",
-        "desc": "Couches, tables, dressers, and shelving."
-      },
-      {
-        "title": "Books, Media & Toys",
-        "desc": "Paperbacks, records, games, and puzzles."
-      },
-      {
-        "title": "Donations Welcome",
-        "desc": "REPLACE: donation hours and what you can and cannot accept."
-      },
-      {
-        "title": "Weekly Deals",
-        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
-      }
-    ],
-    "aboutHeading": "About Us",
-    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
     "galleryTiles": 6,
     "testimonials": [],
     "social": {
@@ -763,18 +147,26 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + third-party menu host (menufyy) — no website found",
+      "sources": [
+        "https://www.facebook.com/BuckleyPlateauEspresso/",
+        "https://www.yelp.com/biz/buckley-plateau-espresso-buckley"
+      ],
+      "verify": "Listings say established 1996 and that they pour a custom Dillanos blend called Rogue. Confirm with the owner before putting either on the page — good hook for the About section if true."
+    }
   },
   {
-    "slug": "thrift-covington",
-    "name": "REPLACE: Business Name",
-    "category": "thrift",
-    "theme": "thrift",
-    "schemaType": "Store",
-    "tagline": "New stock on the floor every single day.",
-    "eyebrow": "Covington, WA",
+    "slug": "heathers-pet-grooming-orting",
+    "name": "Heather's Pet Grooming",
+    "category": "petgrooming",
+    "theme": "pets",
+    "schemaType": "PetStore",
+    "tagline": "Gentle, unhurried grooming for dogs and cats.",
+    "eyebrow": "Orting, WA",
     "street": "",
-    "city": "Covington",
+    "city": "Orting",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -782,48 +174,43 @@
     "url": "",
     "hours": [
       {
-        "days": "Mon – Fri",
+        "days": "Tue – Sat",
         "open": "REPLACE",
         "close": "REPLACE"
       },
       {
-        "days": "Saturday",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sunday",
+        "days": "Sun – Mon",
         "closed": true
       }
     ],
     "services": [
       {
-        "title": "Clothing",
-        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
+        "title": "Full Groom",
+        "desc": "Bath, blow-out, haircut, nails, ears, and a finishing brush."
       },
       {
-        "title": "Housewares",
-        "desc": "Kitchen, glassware, small appliances, and linens."
+        "title": "Bath & Brush",
+        "desc": "Wash, dry, deshed, and tidy-up without a full cut."
       },
       {
-        "title": "Furniture",
-        "desc": "Couches, tables, dressers, and shelving."
+        "title": "Nail Trim & Grind",
+        "desc": "Quick walk-in service, no appointment needed."
       },
       {
-        "title": "Books, Media & Toys",
-        "desc": "Paperbacks, records, games, and puzzles."
+        "title": "De-Shedding Treatment",
+        "desc": "Undercoat removal for double-coated breeds."
       },
       {
-        "title": "Donations Welcome",
-        "desc": "REPLACE: donation hours and what you can and cannot accept."
+        "title": "Puppy First Groom",
+        "desc": "A short, low-stress introduction to the grooming table."
       },
       {
-        "title": "Weekly Deals",
-        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
+        "title": "Cat Grooming",
+        "desc": "Baths, lion cuts, and nail caps by appointment."
       }
     ],
-    "aboutHeading": "About Us",
-    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the groomer is, how long they have been doing this, and their approach to nervous animals.\n\nREPLACE: certifications, handling philosophy, or what makes the shop different.",
     "galleryTiles": 6,
     "testimonials": [],
     "social": {
@@ -834,18 +221,25 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — no website found",
+      "sources": [
+        "https://www.facebook.com/p/Heathers-Pet-Grooming-100086752537948/"
+      ],
+      "verify": "Listed as full-service dog grooming serving Orting and surrounding areas. Confirm whether she is mobile, home-based, or storefront — changes the whole contact section."
+    }
   },
   {
-    "slug": "autorepair-kent",
-    "name": "REPLACE: Business Name",
+    "slug": "eatonville-auto-center",
+    "name": "Eatonville Auto Center",
     "category": "autorepair",
     "theme": "auto",
     "schemaType": "AutoRepair",
     "tagline": "Straight answers and work that holds up.",
-    "eyebrow": "Kent, WA",
+    "eyebrow": "Eatonville, WA",
     "street": "",
-    "city": "Kent",
+    "city": "Eatonville",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -905,18 +299,799 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Yelp and CARFAX listings only — no website found",
+      "sources": [
+        "https://www.yelp.com/biz/eatonville-auto-center-eatonville",
+        "https://www.carfax.com/Auto-Repair-Eatonville-WA_c19589"
+      ],
+      "verify": "CARFAX shows 4.7 from 46 verified reviews. Note the neighbor shop Motor Worx already runs a MechanicNet template site — useful competitive angle in the pitch."
+    }
   },
   {
-    "slug": "autorepair-maple-valley",
-    "name": "REPLACE: Business Name",
+    "slug": "roy-market-deli",
+    "name": "Roy Market Deli",
+    "category": "market",
+    "theme": "market",
+    "schemaType": "GroceryStore",
+    "tagline": "Your neighborhood grocery and deli.",
+    "eyebrow": "Roy, WA",
+    "street": "",
+    "city": "Roy",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Deli Counter",
+        "desc": "Sandwiches, salads, and sliced-to-order meats and cheeses."
+      },
+      {
+        "title": "Fresh Produce",
+        "desc": "REPLACE: note local growers or seasonal highlights."
+      },
+      {
+        "title": "Meat & Seafood",
+        "desc": "REPLACE: butcher counter details, or remove this card."
+      },
+      {
+        "title": "Pantry & Staples",
+        "desc": "Everything for the week without the drive to a big store."
+      },
+      {
+        "title": "Beer & Wine",
+        "desc": "REPLACE: selection notes, or remove this card."
+      },
+      {
+        "title": "Catering Trays",
+        "desc": "REPLACE: lead time and tray sizes, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Market",
+    "about": "REPLACE: how long the market has served the area and who runs it.\n\nREPLACE: local suppliers, house-made items, or the deli specialty.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Yelp, Nextdoor and directory listings only — no website found",
+      "sources": [
+        "https://www.yelp.com/biz/roy-market-deli-roy",
+        "https://nextdoor.com/pages/roy-market-deli-roy-wa/"
+      ],
+      "verify": "Listings show 4.8 from 32 reviews and an early open (around 4 AM weekdays) — worth confirming, it is a strong differentiator for the hero."
+    }
+  },
+  {
+    "slug": "sandstone-cafe-tenino",
+    "name": "The Sandstone Cafe & Quarry Bar",
+    "category": "restaurant",
+    "theme": "market",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Tenino, WA",
+    "street": "",
+    "city": "Tenino",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
+      },
+      {
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
+      },
+      {
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
+      },
+      {
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
+      },
+      {
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
+      },
+      {
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Yelp, TripAdvisor and menu-aggregator pages only — no website found",
+      "sources": [
+        "https://www.yelp.com/biz/the-sandstone-cafe-tenino",
+        "https://www.experienceolympia.com/directory/sandstone-cafe-quarry-bar/"
+      ],
+      "verify": "Strongest lead of the batch: listings show 4.6 stars across 700+ reviews and no site at all. Aggregators list hours as Mon-Wed 7-2, Thu-Sat 7-8, Sun 7-2 — confirm, they drift. Name appears as both 'Sandstone Cafe' and 'Sandstone Cafe & Quarry Bar'; ask which they use."
+    }
+  },
+  {
+    "slug": "clucking-hen-winlock",
+    "name": "Clucking Hen Coffee Shop",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Winlock, WA",
+    "street": "",
+    "city": "Winlock",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Yelp + Discover Lewis County tourism listing only — no website found",
+      "sources": [
+        "https://www.yelp.com/biz/clucking-hen-coffee-shop-winlock",
+        "https://discoverlewiscounty.com/eatshop/clucking-hen-coffee-shop/"
+      ],
+      "verify": "Listing shows a short morning window (roughly 7 AM-12 PM). Confirm — if accurate it belongs in the hero, not buried in the hours table."
+    }
+  },
+  {
+    "slug": "napavine-espresso",
+    "name": "Napavine Espresso",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Napavine, WA",
+    "street": "",
+    "city": "Napavine",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + aggregators only — no website found",
+      "sources": [
+        "https://www.facebook.com/NapavineEspresso/",
+        "https://www.yelp.com/biz/napavine-espresso-napavine"
+      ],
+      "verify": "Sources conflict on address: 104 2nd Ave (Yelp) vs 102 2nd Ave NE. Drive-thru stand; listings mention boba and brown sugar milk tea, which is unusual for a rural stand and worth featuring if true."
+    }
+  },
+  {
+    "slug": "morton-country-market",
+    "name": "Morton Country Market",
+    "category": "market",
+    "theme": "market",
+    "schemaType": "GroceryStore",
+    "tagline": "Your neighborhood grocery and deli.",
+    "eyebrow": "Morton, WA",
+    "street": "",
+    "city": "Morton",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Deli Counter",
+        "desc": "Sandwiches, salads, and sliced-to-order meats and cheeses."
+      },
+      {
+        "title": "Fresh Produce",
+        "desc": "REPLACE: note local growers or seasonal highlights."
+      },
+      {
+        "title": "Meat & Seafood",
+        "desc": "REPLACE: butcher counter details, or remove this card."
+      },
+      {
+        "title": "Pantry & Staples",
+        "desc": "Everything for the week without the drive to a big store."
+      },
+      {
+        "title": "Beer & Wine",
+        "desc": "REPLACE: selection notes, or remove this card."
+      },
+      {
+        "title": "Catering Trays",
+        "desc": "REPLACE: lead time and tray sizes, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Market",
+    "about": "REPLACE: how long the market has served the area and who runs it.\n\nREPLACE: local suppliers, house-made items, or the deli specialty.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Yelp + East Lewis County Chamber listing only — no website found",
+      "sources": [
+        "https://www.yelp.com/biz/morton-country-market-morton",
+        "https://elcchamber.org/directory/chamber-member/morton-country-market/"
+      ],
+      "verify": "Chamber listing calls it the only locally owned grocery in Morton and mentions catering (sandwich platters, fruit trays, hot meals). Catering is the page that would actually make them money — confirm and lead with it."
+    }
+  },
+  {
+    "slug": "mountain-goat-coffee-packwood",
+    "name": "Mountain Goat Coffee Company",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Packwood, WA",
+    "street": "",
+    "city": "Packwood",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
+      },
+      {
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
+      },
+      {
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
+      },
+      {
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
+      },
+      {
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
+      },
+      {
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
+      }
+    ],
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + Visit Rainier and Discover Lewis County listings only — no website found",
+      "sources": [
+        "https://www.facebook.com/MountainGoatCoffeeCo/",
+        "https://visitrainier.com/mountain-goat-coffee-company/"
+      ],
+      "verify": "Listed as an in-house roaster and scratch bakery with their own 'Packwood Roast' — a roaster with no website is a strong pitch, since they could sell beans online. Note: Packwood, not Morton, despite showing up in Morton-area results."
+    }
+  },
+  {
+    "slug": "past-present-mercantile-aberdeen",
+    "name": "Past and Present Mercantile",
+    "category": "antiques",
+    "theme": "vintage",
+    "schemaType": "Store",
+    "tagline": "Curated antiques, oddities, and honest old things.",
+    "eyebrow": "Aberdeen, WA",
+    "street": "",
+    "city": "Aberdeen",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Furniture",
+        "desc": "Solid-wood pieces, mid-century through Victorian."
+      },
+      {
+        "title": "Glassware & China",
+        "desc": "Depression glass, pottery, and full sets."
+      },
+      {
+        "title": "Vintage Decor",
+        "desc": "Signs, lighting, mirrors, and wall art."
+      },
+      {
+        "title": "Jewelry & Smalls",
+        "desc": "Costume and estate jewelry, watches, and curiosities."
+      },
+      {
+        "title": "Estate Buying",
+        "desc": "REPLACE: describe how the shop buys, or remove this card."
+      },
+      {
+        "title": "Booth Rental",
+        "desc": "REPLACE: booth sizes and monthly rates, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: how long the shop has been open, what the owner collects, and what walking in feels like.\n\nREPLACE: whether dealers rent booths, and how stock turns over.",
+    "galleryTiles": 8,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + directory listings only — no website found",
+      "sources": [
+        "https://www.facebook.com/p/Past-and-Present-Mercantile-100057609753014/",
+        "https://www.yellowpages.com/aberdeen-wa/mip/past-and-present-mercantile-470395357"
+      ],
+      "verify": "Aberdeen, not Elma — it surfaced in an Elma-area search. Listings describe glassware, lamps, clocks and vases as the core stock."
+    }
+  },
+  {
+    "slug": "top-dogs-shelton",
+    "name": "Top Dogs",
+    "category": "petgrooming",
+    "theme": "pets",
+    "schemaType": "PetStore",
+    "tagline": "Gentle, unhurried grooming for dogs and cats.",
+    "eyebrow": "Shelton, WA",
+    "street": "",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Tue – Sat",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sun – Mon",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Full Groom",
+        "desc": "Bath, blow-out, haircut, nails, ears, and a finishing brush."
+      },
+      {
+        "title": "Bath & Brush",
+        "desc": "Wash, dry, deshed, and tidy-up without a full cut."
+      },
+      {
+        "title": "Nail Trim & Grind",
+        "desc": "Quick walk-in service, no appointment needed."
+      },
+      {
+        "title": "De-Shedding Treatment",
+        "desc": "Undercoat removal for double-coated breeds."
+      },
+      {
+        "title": "Puppy First Groom",
+        "desc": "A short, low-stress introduction to the grooming table."
+      },
+      {
+        "title": "Cat Grooming",
+        "desc": "Baths, lion cuts, and nail caps by appointment."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the groomer is, how long they have been doing this, and their approach to nervous animals.\n\nREPLACE: certifications, handling philosophy, or what makes the shop different.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page + Nextdoor only — no website found",
+      "sources": [
+        "https://www.facebook.com/sheltondoggrooming/",
+        "https://nextdoor.com/pages/top-dogs-shelton-wa-1/"
+      ],
+      "verify": "Listed as full-service, cats and dogs, all breeds and sizes. Generic name — confirm you have the right Top Dogs before reaching out."
+    }
+  },
+  {
+    "slug": "grooming-by-nichole-shelton",
+    "name": "Grooming By Nichole",
+    "category": "petgrooming",
+    "theme": "pets",
+    "schemaType": "PetStore",
+    "tagline": "Gentle, unhurried grooming for dogs and cats.",
+    "eyebrow": "Shelton, WA",
+    "street": "",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Tue – Sat",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sun – Mon",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Full Groom",
+        "desc": "Bath, blow-out, haircut, nails, ears, and a finishing brush."
+      },
+      {
+        "title": "Bath & Brush",
+        "desc": "Wash, dry, deshed, and tidy-up without a full cut."
+      },
+      {
+        "title": "Nail Trim & Grind",
+        "desc": "Quick walk-in service, no appointment needed."
+      },
+      {
+        "title": "De-Shedding Treatment",
+        "desc": "Undercoat removal for double-coated breeds."
+      },
+      {
+        "title": "Puppy First Groom",
+        "desc": "A short, low-stress introduction to the grooming table."
+      },
+      {
+        "title": "Cat Grooming",
+        "desc": "Baths, lion cuts, and nail caps by appointment."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the groomer is, how long they have been doing this, and their approach to nervous animals.\n\nREPLACE: certifications, handling philosophy, or what makes the shop different.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — no website found",
+      "sources": [
+        "https://www.facebook.com/p/Grooming-By-Nichole-100052216585833/"
+      ],
+      "verify": "Listed at 560 SE Mill Creek Rd, which reads residential — confirm whether she is home-based or storefront before writing the contact section."
+    }
+  },
+  {
+    "slug": "michelles-pedi-paws-belfair",
+    "name": "Michelle's Pedi Paws",
+    "category": "petgrooming",
+    "theme": "pets",
+    "schemaType": "PetStore",
+    "tagline": "Gentle, unhurried grooming for dogs and cats.",
+    "eyebrow": "Belfair, WA",
+    "street": "",
+    "city": "Belfair",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Tue – Sat",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sun – Mon",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Full Groom",
+        "desc": "Bath, blow-out, haircut, nails, ears, and a finishing brush."
+      },
+      {
+        "title": "Bath & Brush",
+        "desc": "Wash, dry, deshed, and tidy-up without a full cut."
+      },
+      {
+        "title": "Nail Trim & Grind",
+        "desc": "Quick walk-in service, no appointment needed."
+      },
+      {
+        "title": "De-Shedding Treatment",
+        "desc": "Undercoat removal for double-coated breeds."
+      },
+      {
+        "title": "Puppy First Groom",
+        "desc": "A short, low-stress introduction to the grooming table."
+      },
+      {
+        "title": "Cat Grooming",
+        "desc": "Baths, lion cuts, and nail caps by appointment."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the groomer is, how long they have been doing this, and their approach to nervous animals.\n\nREPLACE: certifications, handling philosophy, or what makes the shop different.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only — no website found; uses a yahoo.com email address",
+      "sources": [
+        "https://www.facebook.com/michellespedipaws"
+      ],
+      "verify": "Appears to serve Belfair through Shelton rather than one address, so this is likely mobile — if so the site needs a service-area map, not a storefront address."
+    }
+  },
+  {
+    "slug": "dc-garage-darrington",
+    "name": "DC Garage",
     "category": "autorepair",
     "theme": "auto",
     "schemaType": "AutoRepair",
     "tagline": "Straight answers and work that holds up.",
-    "eyebrow": "Maple Valley, WA",
+    "eyebrow": "Darrington, WA",
     "street": "",
-    "city": "Maple Valley",
+    "city": "Darrington",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -976,18 +1151,25 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Listed as having no website in the town business directory",
+      "sources": [
+        "https://www.discoverdarrington.com/community/business-directory/"
+      ],
+      "verify": "Subaru specialist. Single-source lead — the town directory says no website, which only means none is listed there. Search the name before pitching. Darrington is ~1,400 people, so a specialist shop there likely draws from the whole Stillaguamish valley; that reach is the pitch."
+    }
   },
   {
-    "slug": "nails-covington",
-    "name": "REPLACE: Business Name",
-    "category": "nails",
-    "theme": "salon",
-    "schemaType": "NailSalon",
-    "tagline": "Clean work, careful prep, and colors that last.",
-    "eyebrow": "Covington, WA",
+    "slug": "tuckaway-antiques-cle-elum",
+    "name": "Tuckaway Antiques & Collectibles",
+    "category": "antiques",
+    "theme": "vintage",
+    "schemaType": "Store",
+    "tagline": "Curated antiques, oddities, and honest old things.",
+    "eyebrow": "Cle Elum, WA",
     "street": "",
-    "city": "Covington",
+    "city": "Cle Elum",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -995,43 +1177,48 @@
     "url": "",
     "hours": [
       {
-        "days": "Tue – Sat",
+        "days": "Mon – Fri",
         "open": "REPLACE",
         "close": "REPLACE"
       },
       {
-        "days": "Sun – Mon",
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
         "closed": true
       }
     ],
     "services": [
       {
-        "title": "Manicure",
-        "desc": "Shape, cuticle care, buff, and polish."
+        "title": "Furniture",
+        "desc": "Solid-wood pieces, mid-century through Victorian."
       },
       {
-        "title": "Pedicure",
-        "desc": "Soak, exfoliation, callus care, massage, and polish."
+        "title": "Glassware & China",
+        "desc": "Depression glass, pottery, and full sets."
       },
       {
-        "title": "Gel & Dip",
-        "desc": "Long-wear color with proper prep and removal."
+        "title": "Vintage Decor",
+        "desc": "Signs, lighting, mirrors, and wall art."
       },
       {
-        "title": "Acrylic & Extensions",
-        "desc": "Full sets, fills, and repairs."
+        "title": "Jewelry & Smalls",
+        "desc": "Costume and estate jewelry, watches, and curiosities."
       },
       {
-        "title": "Nail Art",
-        "desc": "Freehand designs, chrome, ombré, and hand-set stones."
+        "title": "Estate Buying",
+        "desc": "REPLACE: describe how the shop buys, or remove this card."
       },
       {
-        "title": "Waxing",
-        "desc": "REPLACE: list the waxing services offered, or remove this card."
+        "title": "Booth Rental",
+        "desc": "REPLACE: booth sizes and monthly rates, or remove this card."
       }
     ],
-    "aboutHeading": "About the Salon",
-    "about": "REPLACE: who the technicians are, their training, and the salon atmosphere.\n\nREPLACE: sanitation practices and booking policy.",
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: how long the shop has been open, what the owner collects, and what walking in feels like.\n\nREPLACE: whether dealers rent booths, and how stock turns over.",
     "galleryTiles": 8,
     "testimonials": [],
     "social": {
@@ -1042,84 +1229,26 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the Roslyn/Cle Elum shopping directory",
+      "sources": [
+        "https://roselum.com/directory/shopping/",
+        "https://www.yelp.com/search?find_desc=antique+stores&find_loc=Cle+Elum%2C+WA+98922"
+      ],
+      "verify": "Best commercial prospect in this batch: an antique mall open ~20 years in the old Studebaker dealership on E 1st St. Dealer malls need a booth-rental page and a dealer directory, which is a bigger build than a one-pager — price it accordingly."
+    }
   },
   {
-    "slug": "nails-burien",
-    "name": "REPLACE: Business Name",
-    "category": "nails",
-    "theme": "salon",
-    "schemaType": "NailSalon",
-    "tagline": "Clean work, careful prep, and colors that last.",
-    "eyebrow": "Burien, WA",
-    "street": "",
-    "city": "Burien",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Tue – Sat",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sun – Mon",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Manicure",
-        "desc": "Shape, cuticle care, buff, and polish."
-      },
-      {
-        "title": "Pedicure",
-        "desc": "Soak, exfoliation, callus care, massage, and polish."
-      },
-      {
-        "title": "Gel & Dip",
-        "desc": "Long-wear color with proper prep and removal."
-      },
-      {
-        "title": "Acrylic & Extensions",
-        "desc": "Full sets, fills, and repairs."
-      },
-      {
-        "title": "Nail Art",
-        "desc": "Freehand designs, chrome, ombré, and hand-set stones."
-      },
-      {
-        "title": "Waxing",
-        "desc": "REPLACE: list the waxing services offered, or remove this card."
-      }
-    ],
-    "aboutHeading": "About the Salon",
-    "about": "REPLACE: who the technicians are, their training, and the salon atmosphere.\n\nREPLACE: sanitation practices and booking policy.",
-    "galleryTiles": 8,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "boutique-issaquah",
-    "name": "REPLACE: Business Name",
+    "slug": "cicelys-gift-shop-roslyn",
+    "name": "Cicely's Gift Shop",
     "category": "boutique",
     "theme": "boutique",
     "schemaType": "ClothingStore",
     "tagline": "A small shop with a point of view.",
-    "eyebrow": "Issaquah, WA",
+    "eyebrow": "Roslyn, WA",
     "street": "",
-    "city": "Issaquah",
+    "city": "Roslyn",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -1179,18 +1308,25 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the Roslyn/Cle Elum shopping directory",
+      "sources": [
+        "https://roselum.com/directory/shopping/"
+      ],
+      "verify": "Strongest lead overall. A Northern Exposure landmark gift shop, 25+ years, in a town people drive to because of the show — and no website at all. Tourists research before they go, so the whole pitch is capturing search traffic they are currently losing."
+    }
   },
   {
-    "slug": "boutique-enumclaw",
-    "name": "REPLACE: Business Name",
-    "category": "boutique",
-    "theme": "boutique",
-    "schemaType": "ClothingStore",
-    "tagline": "A small shop with a point of view.",
-    "eyebrow": "Enumclaw, WA",
+    "slug": "attic-treasures-cle-elum",
+    "name": "Attic Treasures Thrift Store",
+    "category": "thrift",
+    "theme": "thrift",
+    "schemaType": "Store",
+    "tagline": "New stock on the floor every single day.",
+    "eyebrow": "Cle Elum, WA",
     "street": "",
-    "city": "Enumclaw",
+    "city": "Cle Elum",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -1214,32 +1350,32 @@
     ],
     "services": [
       {
-        "title": "Apparel",
-        "desc": "REPLACE: the categories and sizes carried."
+        "title": "Clothing",
+        "desc": "Men's, women's, and kids' — sorted by size, restocked daily."
       },
       {
-        "title": "Accessories",
-        "desc": "Bags, scarves, hats, and jewelry."
+        "title": "Housewares",
+        "desc": "Kitchen, glassware, small appliances, and linens."
       },
       {
-        "title": "Gifts",
-        "desc": "Cards, candles, and small-batch goods."
+        "title": "Furniture",
+        "desc": "Couches, tables, dressers, and shelving."
       },
       {
-        "title": "Local Makers",
-        "desc": "REPLACE: name the local artists and brands carried."
+        "title": "Books, Media & Toys",
+        "desc": "Paperbacks, records, games, and puzzles."
       },
       {
-        "title": "Gift Wrapping",
-        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+        "title": "Donations Welcome",
+        "desc": "REPLACE: donation hours and what you can and cannot accept."
       },
       {
-        "title": "Personal Shopping",
-        "desc": "REPLACE: describe or remove this card."
+        "title": "Weekly Deals",
+        "desc": "REPLACE: color-tag sales, senior day, or student discounts."
       }
     ],
-    "aboutHeading": "About the Shop",
-    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "aboutHeading": "About Us",
+    "about": "REPLACE: who runs the store, what it supports, and how long it has been open.\n\nREPLACE: donation policy and what happens to items that do not sell.",
     "galleryTiles": 6,
     "testimonials": [],
     "social": {
@@ -1250,18 +1386,25 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the Roslyn/Cle Elum shopping directory",
+      "sources": [
+        "https://roselum.com/directory/shopping/"
+      ],
+      "verify": "Thrift and secondhand. Confirm whether it is a for-profit store or a nonprofit-run shop — that changes both the budget and the pitch."
+    }
   },
   {
-    "slug": "boutique-maple-valley",
-    "name": "REPLACE: Business Name",
-    "category": "boutique",
-    "theme": "boutique",
-    "schemaType": "ClothingStore",
-    "tagline": "A small shop with a point of view.",
-    "eyebrow": "Maple Valley, WA",
+    "slug": "darrington-coffee-tea",
+    "name": "Darrington Coffee & Tea Company",
+    "category": "coffee",
+    "theme": "coffee",
+    "schemaType": "CafeOrCoffeeShop",
+    "tagline": "Small-batch espresso, pulled to order.",
+    "eyebrow": "Darrington, WA",
     "street": "",
-    "city": "Maple Valley",
+    "city": "Darrington",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -1285,32 +1428,32 @@
     ],
     "services": [
       {
-        "title": "Apparel",
-        "desc": "REPLACE: the categories and sizes carried."
+        "title": "Espresso Bar",
+        "desc": "Lattes, cappuccinos, macchiatos, americanos, and straight shots."
       },
       {
-        "title": "Accessories",
-        "desc": "Bags, scarves, hats, and jewelry."
+        "title": "Drip & Pour-Over",
+        "desc": "Fresh pots through the day, plus single-cup pour-overs on request."
       },
       {
-        "title": "Gifts",
-        "desc": "Cards, candles, and small-batch goods."
+        "title": "Cold Brew & Iced",
+        "desc": "Slow-steeped cold brew, iced lattes, and blended drinks."
       },
       {
-        "title": "Local Makers",
-        "desc": "REPLACE: name the local artists and brands carried."
+        "title": "Tea & Non-Coffee",
+        "desc": "Loose-leaf teas, chai, steamers, and kid-friendly options."
       },
       {
-        "title": "Gift Wrapping",
-        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+        "title": "Fresh Pastries",
+        "desc": "Baked goods delivered each morning."
       },
       {
-        "title": "Personal Shopping",
-        "desc": "REPLACE: describe or remove this card."
+        "title": "Drive-Thru",
+        "desc": "Order from the window — most drinks out in under three minutes."
       }
     ],
-    "aboutHeading": "About the Shop",
-    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "aboutHeading": "Our Story",
+    "about": "REPLACE: two or three sentences on how the shop started, who runs it, and what regulars come back for.\n\nREPLACE: a second paragraph on sourcing, the roast, or the neighborhood.",
     "galleryTiles": 6,
     "testimonials": [],
     "social": {
@@ -1321,18 +1464,25 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the town business directory",
+      "sources": [
+        "https://www.discoverdarrington.com/community/business-directory/"
+      ],
+      "verify": "Note the town IGA already runs darringtoniga.com and also sells espresso — so a competitor is online and this shop is not. That is the pitch in one sentence."
+    }
   },
   {
-    "slug": "market-black-diamond",
-    "name": "REPLACE: Business Name",
-    "category": "market",
+    "slug": "river-time-brewing-darrington",
+    "name": "River Time Brewing",
+    "category": "restaurant",
     "theme": "market",
-    "schemaType": "GroceryStore",
-    "tagline": "Your neighborhood grocery and deli.",
-    "eyebrow": "Black Diamond, WA",
+    "schemaType": "Restaurant",
+    "tagline": "Honest food, made from scratch.",
+    "eyebrow": "Darrington, WA",
     "street": "",
-    "city": "Black Diamond",
+    "city": "Darrington",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -1356,32 +1506,32 @@
     ],
     "services": [
       {
-        "title": "Deli Counter",
-        "desc": "Sandwiches, salads, and sliced-to-order meats and cheeses."
+        "title": "Breakfast",
+        "desc": "REPLACE: what is served and until when."
       },
       {
-        "title": "Fresh Produce",
-        "desc": "REPLACE: note local growers or seasonal highlights."
+        "title": "Lunch",
+        "desc": "REPLACE: sandwiches, burgers, soups — name the ones people come back for."
       },
       {
-        "title": "Meat & Seafood",
-        "desc": "REPLACE: butcher counter details, or remove this card."
+        "title": "Dinner",
+        "desc": "REPLACE: the dinner menu, or remove this card if breakfast and lunch only."
       },
       {
-        "title": "Pantry & Staples",
-        "desc": "Everything for the week without the drive to a big store."
+        "title": "Homemade Daily",
+        "desc": "REPLACE: soups, pies, gravy — whatever is genuinely made in house."
       },
       {
-        "title": "Beer & Wine",
-        "desc": "REPLACE: selection notes, or remove this card."
+        "title": "Bar",
+        "desc": "REPLACE: beer, wine, cocktails — or remove this card."
       },
       {
-        "title": "Catering Trays",
-        "desc": "REPLACE: lead time and tray sizes, or remove this card."
+        "title": "Takeout & Catering",
+        "desc": "REPLACE: how to order ahead, or remove this card."
       }
     ],
-    "aboutHeading": "About the Market",
-    "about": "REPLACE: how long the market has served the area and who runs it.\n\nREPLACE: local suppliers, house-made items, or the deli specialty.",
+    "aboutHeading": "About the Kitchen",
+    "about": "REPLACE: who runs the kitchen, how long the place has been open, and what regulars order.\n\nREPLACE: house specialties, local suppliers, or the story behind the building.",
     "galleryTiles": 6,
     "testimonials": [],
     "social": {
@@ -1392,18 +1542,25 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the town business directory",
+      "sources": [
+        "https://www.discoverdarrington.com/community/business-directory/"
+      ],
+      "verify": "Craft beer and pizza. Breweries live on taplists and event calendars, so this needs more than a static one-pager — ask what changes weekly before you quote."
+    }
   },
   {
-    "slug": "market-enumclaw",
-    "name": "REPLACE: Business Name",
-    "category": "market",
-    "theme": "market",
-    "schemaType": "GroceryStore",
-    "tagline": "Your neighborhood grocery and deli.",
-    "eyebrow": "Enumclaw, WA",
+    "slug": "cavallinis-gifts-cle-elum",
+    "name": "Cavallini's Gifts & Home Decor",
+    "category": "boutique",
+    "theme": "boutique",
+    "schemaType": "ClothingStore",
+    "tagline": "A small shop with a point of view.",
+    "eyebrow": "Cle Elum, WA",
     "street": "",
-    "city": "Enumclaw",
+    "city": "Cle Elum",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -1427,32 +1584,32 @@
     ],
     "services": [
       {
-        "title": "Deli Counter",
-        "desc": "Sandwiches, salads, and sliced-to-order meats and cheeses."
+        "title": "Apparel",
+        "desc": "REPLACE: the categories and sizes carried."
       },
       {
-        "title": "Fresh Produce",
-        "desc": "REPLACE: note local growers or seasonal highlights."
+        "title": "Accessories",
+        "desc": "Bags, scarves, hats, and jewelry."
       },
       {
-        "title": "Meat & Seafood",
-        "desc": "REPLACE: butcher counter details, or remove this card."
+        "title": "Gifts",
+        "desc": "Cards, candles, and small-batch goods."
       },
       {
-        "title": "Pantry & Staples",
-        "desc": "Everything for the week without the drive to a big store."
+        "title": "Local Makers",
+        "desc": "REPLACE: name the local artists and brands carried."
       },
       {
-        "title": "Beer & Wine",
-        "desc": "REPLACE: selection notes, or remove this card."
+        "title": "Gift Wrapping",
+        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
       },
       {
-        "title": "Catering Trays",
-        "desc": "REPLACE: lead time and tray sizes, or remove this card."
+        "title": "Personal Shopping",
+        "desc": "REPLACE: describe or remove this card."
       }
     ],
-    "aboutHeading": "About the Market",
-    "about": "REPLACE: how long the market has served the area and who runs it.\n\nREPLACE: local suppliers, house-made items, or the deli specialty.",
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
     "galleryTiles": 6,
     "testimonials": [],
     "social": {
@@ -1463,18 +1620,181 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the Roslyn/Cle Elum shopping directory",
+      "sources": [
+        "https://roselum.com/directory/shopping/"
+      ],
+      "verify": "Cards, gifts, home decor. Several neighbors on the same directory already have sites, which is useful leverage in the pitch."
+    }
   },
   {
-    "slug": "homeservices-kent",
-    "name": "REPLACE: Business Name",
+    "slug": "black-sheep-home-goods-cle-elum",
+    "name": "Black Sheep Home Goods",
+    "category": "boutique",
+    "theme": "boutique",
+    "schemaType": "ClothingStore",
+    "tagline": "A small shop with a point of view.",
+    "eyebrow": "Cle Elum, WA",
+    "street": "",
+    "city": "Cle Elum",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Apparel",
+        "desc": "REPLACE: the categories and sizes carried."
+      },
+      {
+        "title": "Accessories",
+        "desc": "Bags, scarves, hats, and jewelry."
+      },
+      {
+        "title": "Gifts",
+        "desc": "Cards, candles, and small-batch goods."
+      },
+      {
+        "title": "Local Makers",
+        "desc": "REPLACE: name the local artists and brands carried."
+      },
+      {
+        "title": "Gift Wrapping",
+        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+      },
+      {
+        "title": "Personal Shopping",
+        "desc": "REPLACE: describe or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the Roslyn/Cle Elum shopping directory",
+      "sources": [
+        "https://roselum.com/directory/shopping/"
+      ],
+      "verify": "Home goods and decor. Confirm it is still trading — small home-goods shops turn over fast."
+    }
+  },
+  {
+    "slug": "ireland-jewelers-cle-elum",
+    "name": "Ireland Jewelers",
+    "category": "boutique",
+    "theme": "boutique",
+    "schemaType": "ClothingStore",
+    "tagline": "A small shop with a point of view.",
+    "eyebrow": "Cle Elum, WA",
+    "street": "",
+    "city": "Cle Elum",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Mon – Fri",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Saturday",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sunday",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Apparel",
+        "desc": "REPLACE: the categories and sizes carried."
+      },
+      {
+        "title": "Accessories",
+        "desc": "Bags, scarves, hats, and jewelry."
+      },
+      {
+        "title": "Gifts",
+        "desc": "Cards, candles, and small-batch goods."
+      },
+      {
+        "title": "Local Makers",
+        "desc": "REPLACE: name the local artists and brands carried."
+      },
+      {
+        "title": "Gift Wrapping",
+        "desc": "REPLACE: free with purchase? seasonal only? — or remove."
+      },
+      {
+        "title": "Personal Shopping",
+        "desc": "REPLACE: describe or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the owner is, how they buy, and what the shop is known for.\n\nREPLACE: local makers carried, or the story behind the name.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the Roslyn/Cle Elum shopping directory",
+      "sources": [
+        "https://roselum.com/directory/shopping/"
+      ],
+      "verify": "Jewelry and repair. Repair work is the searchable service (people google 'jewelry repair near me'), so lead with repair rather than retail."
+    }
+  },
+  {
+    "slug": "whitehorse-construction-darrington",
+    "name": "Whitehorse Construction",
     "category": "homeservices",
     "theme": "trade",
     "schemaType": "HomeAndConstructionBusiness",
     "tagline": "Licensed, bonded, and on time.",
-    "eyebrow": "Kent, WA",
+    "eyebrow": "Darrington, WA",
     "street": "",
-    "city": "Kent",
+    "city": "Darrington",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -1534,18 +1854,25 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the town business directory",
+      "sources": [
+        "https://www.discoverdarrington.com/community/business-directory/"
+      ],
+      "verify": "Custom homes and remodeling — the highest-ticket lead on this list, and contractors are used to paying for marketing. Needs a real project gallery, so ask for photos up front. Get their WA contractor license number for the site footer."
+    }
   },
   {
-    "slug": "homeservices-auburn",
-    "name": "REPLACE: Business Name",
+    "slug": "high-mountain-landscaping-darrington",
+    "name": "High Mountain Landscaping & Design",
     "category": "homeservices",
     "theme": "trade",
     "schemaType": "HomeAndConstructionBusiness",
     "tagline": "Licensed, bonded, and on time.",
-    "eyebrow": "Auburn, WA",
+    "eyebrow": "Darrington, WA",
     "street": "",
-    "city": "Auburn",
+    "city": "Darrington",
     "state": "WA",
     "zip": "",
     "phone": "",
@@ -1605,122 +1932,13 @@
       "label": "",
       "href": "#contact"
     },
-    "status": "slot"
-  },
-  {
-    "slug": "professional-renton",
-    "name": "REPLACE: Business Name",
-    "category": "professional",
-    "theme": "professional",
-    "schemaType": "ProfessionalService",
-    "tagline": "Clear advice, plainly explained.",
-    "eyebrow": "Renton, WA",
-    "street": "",
-    "city": "Renton",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Tue – Sat",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sun – Mon",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Consultation",
-        "desc": "REPLACE: what an initial consultation covers and its cost."
-      },
-      {
-        "title": "Core Service",
-        "desc": "REPLACE: the primary service offered."
-      },
-      {
-        "title": "Secondary Service",
-        "desc": "REPLACE: or remove this card."
-      },
-      {
-        "title": "Fees",
-        "desc": "REPLACE: fee structure, or remove this card."
-      }
-    ],
-    "aboutHeading": "About the Practice",
-    "about": "REPLACE: background, credentials, and years of practice.\n\nREPLACE: who the practice serves and how the first meeting works.",
-    "galleryTiles": 0,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
-  },
-  {
-    "slug": "professional-federal-way",
-    "name": "REPLACE: Business Name",
-    "category": "professional",
-    "theme": "professional",
-    "schemaType": "ProfessionalService",
-    "tagline": "Clear advice, plainly explained.",
-    "eyebrow": "Federal Way, WA",
-    "street": "",
-    "city": "Federal Way",
-    "state": "WA",
-    "zip": "",
-    "phone": "",
-    "email": "",
-    "url": "",
-    "hours": [
-      {
-        "days": "Tue – Sat",
-        "open": "REPLACE",
-        "close": "REPLACE"
-      },
-      {
-        "days": "Sun – Mon",
-        "closed": true
-      }
-    ],
-    "services": [
-      {
-        "title": "Consultation",
-        "desc": "REPLACE: what an initial consultation covers and its cost."
-      },
-      {
-        "title": "Core Service",
-        "desc": "REPLACE: the primary service offered."
-      },
-      {
-        "title": "Secondary Service",
-        "desc": "REPLACE: or remove this card."
-      },
-      {
-        "title": "Fees",
-        "desc": "REPLACE: fee structure, or remove this card."
-      }
-    ],
-    "aboutHeading": "About the Practice",
-    "about": "REPLACE: background, credentials, and years of practice.\n\nREPLACE: who the practice serves and how the first meeting works.",
-    "galleryTiles": 0,
-    "testimonials": [],
-    "social": {
-      "facebook": "",
-      "instagram": ""
-    },
-    "cta": {
-      "label": "",
-      "href": "#contact"
-    },
-    "status": "slot"
+    "status": "draft",
+    "lead": {
+      "web": "Listed with no website in the town business directory",
+      "sources": [
+        "https://www.discoverdarrington.com/community/business-directory/"
+      ],
+      "verify": "Landscaping and design. Seasonal business — pitch before spring, not in autumn."
+    }
   }
 ]

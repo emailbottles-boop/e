@@ -55,7 +55,7 @@ Or edit `businesses.json` directly. Then rebuild just that one:
     node build.js ravensdale-roasters
 
 Categories: `coffee`, `petgrooming`, `antiques`, `thrift`, `autorepair`,
-`nails`, `boutique`, `market`, `homeservices`, `professional`.
+`nails`, `boutique`, `market`, `homeservices`, `restaurant`, `professional`.
 
 Themes: `coffee`, `pets`, `vintage`, `thrift`, `auto`, `salon`, `boutique`,
 `market`, `trade`, `professional` — palettes and type live in
@@ -84,6 +84,24 @@ attributable quotes are supplied; the generator never writes one.
 
 ---
 
+## The leads
+
+`businesses.json` is loaded with 25 real Washington businesses that appear to
+have no website — found through public directory and review listings, spread
+across 16 towns from Aberdeen to Cle Elum.
+
+    node scripts/leads.js    # regenerate LEADS.md
+
+`LEADS.md` is the call sheet: where each lead came from, what its current web
+presence is, and what to confirm before pitching. It regenerates from
+`businesses.json`, so it cannot drift.
+
+**No lead is confirmed.** "No website found" means none turned up in search or
+in the town's own business directory — not that none exists. Call or walk in
+first.
+
+---
+
 ## Files
 
     build.js                 generator — reads businesses.json, writes dist/
@@ -94,7 +112,9 @@ attributable quotes are supplied; the generator never writes one.
     scripts/categories.js    per-category section scaffolding
     scripts/new-site.js      add a business from the command line
     scripts/check.js         readiness gate
-    scripts/seed.js          one-time: lay down 25 blank slots
+    scripts/leads.js         regenerate LEADS.md from businesses.json
+    scripts/seed.js          one-time: lay down blank slots
+    LEADS.md                 the call sheet — sources and what to confirm
 
 ## deploy-all.sh flags
 

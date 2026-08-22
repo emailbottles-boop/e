@@ -36,6 +36,7 @@ const APPLY = has('--yes') || has('-y');
 const VISIBILITY = has('--public') ? '--public' : '--private';
 const PAGES = has('--pages');
 const FORCE = has('--force');
+const OPEN = has('--open');
 
 if (has('--help') || has('-h')) {
   console.log(
@@ -44,6 +45,7 @@ if (has('--help') || has('-h')) {
       '  --public       create public repos (default: private)\n' +
       '  --pages        try to enable GitHub Pages for each repo\n' +
       '  --force        publish even if check.js still flags placeholders\n' +
+      '  --open         open each published repo in the browser afterwards\n' +
       '  --only <slug>  just this one (repeatable)'
   );
   process.exit(0);
@@ -149,6 +151,7 @@ if (!APPLY) {
 
 let published = 0;
 let failed = 0;
+const opened = [];
 
 for (const slug of slugs) {
   const dir = path.join(DIST, slug);
@@ -191,6 +194,7 @@ for (const slug of slugs) {
     continue;
   }
   published++;
+  opened.push(slug);
 
   if (PAGES) {
     const on = quiet(
@@ -204,6 +208,16 @@ for (const slug of slugs) {
         ? `   pages    https://${OWNER}.github.io/${slug}/`
         : '   pages    not enabled (already on, or not available for this repo)'
     );
+  }
+}
+
+if (OPEN && opened.length) {
+  console.log(`\nOpening ${opened.length} repo(s) in your browser...`);
+  for (const slug of opened) {
+    // Best effort: a browser that will not launch should not fail the deploy.
+    if (!quiet('gh', ['repo', 'view', `${OWNER}/${slug}`, '--web'])) {
+      console.log(`   could not open ${slug} — https://github.com/${OWNER}/${slug}`);
+    }
   }
 }
 

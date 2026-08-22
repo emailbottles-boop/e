@@ -132,6 +132,7 @@ Identical on both wrappers.
     --public         public repos (default: private)
     --pages          try to enable GitHub Pages on each repo
     --force          publish despite unresolved placeholders
+    --open           open each published repo in the browser (gh repo view --web)
     --only <slug>    just one site (repeatable)
 
 Re-running is safe: existing repos are updated, not recreated.

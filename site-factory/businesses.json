@@ -5814,5 +5814,157 @@
       "verify": "SHARED-CONTACT FLAG — same street address and same phone as Back to Basics above; treat as likely one owner and confirm on the call. The listing email gives a probable owner surname to ask for. Angle: laundromats live or die on 'is it open / does it take cards / how big are the machines', and this one serves a town on the North Cascades tourist corridor with campgrounds and an RV park nearby — a one-pager with hours, machine sizes and payment types is low effort and immediately useful. HONEST CAVEAT: like Back to Basics, the chamber is the only source; no reviews or tenure exist that the scout could find.",
       "region": "NW WA"
     }
+  },
+  {
+    "slug": "barbershop-at-fairhaven",
+    "name": "The Barbershop at Fairhaven",
+    "category": "barber",
+    "theme": "salon",
+    "schemaType": "HairSalon",
+    "tagline": "A proper haircut, and time to sit still for it.",
+    "eyebrow": "Bellingham, WA",
+    "street": "",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Tue – Sat",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sun – Mon",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Men's Haircut",
+        "desc": "Consultation, cut, and a finish with clippers or shears."
+      },
+      {
+        "title": "Beard Trim & Shape",
+        "desc": "Line-up, shape, and conditioning."
+      },
+      {
+        "title": "Hot Towel Shave",
+        "desc": "Traditional straight-razor shave with hot towels."
+      },
+      {
+        "title": "Kids' Cuts",
+        "desc": "REPLACE: age range and price, or remove this card."
+      },
+      {
+        "title": "Senior Cuts",
+        "desc": "REPLACE: describe or remove this card."
+      },
+      {
+        "title": "Cut & Shave",
+        "desc": "REPLACE: combination pricing, or remove this card."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who cuts hair here, how long the shop has been open, and what the room feels like.\n\nREPLACE: whether it is walk-in or appointment-only, and how to book.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "Facebook page only; a Yelp page with 34 reviews and 12 photos, plus Nextdoor and YellowPages. No owned domain found",
+      "sources": [
+        "https://www.yelp.com/biz/the-barbershop-at-fairhaven-bellingham",
+        "https://www.whatcomtalk.com/2023/06/21/the-barbershop-at-fairhaven-offers-a-trip-back-in-time/",
+        "https://www.facebook.com/Hairtodaygonetomorrow/"
+      ],
+      "verify": "PITCH THIS ONE FIRST. Rare combination of everything that predicts a close: ~25 years at one address (opened 2000), 34 Yelp reviews, a full-length WhatcomTalk feature that already wrote the brand story, and an APPOINTMENT-ONLY model — meaning every booking currently costs the owner a phone call. Sits in Fairhaven, surrounded by neighbours who all own domains. The build is close to a transcription job: the WhatcomTalk story, the shop's own photos, and an online booking link. ADDRESS CONFLICT — sources render it as both '1010 Harris Ave' and '1010 Harris St'. Confirm the owner is still the same person and the shop is still at that address. NOTE the Facebook handle is 'Hairtodaygonetomorrow', which suggests a former name — ask about it.",
+      "region": "Bellingham — Fairhaven"
+    }
+  },
+  {
+    "slug": "kims-grooming-bellingham",
+    "name": "Kim's Grooming",
+    "category": "petgrooming",
+    "theme": "pets",
+    "schemaType": "PetStore",
+    "tagline": "Gentle, unhurried grooming for dogs and cats.",
+    "eyebrow": "Bellingham, WA",
+    "street": "",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "",
+    "phone": "",
+    "email": "",
+    "url": "",
+    "hours": [
+      {
+        "days": "Tue – Sat",
+        "open": "REPLACE",
+        "close": "REPLACE"
+      },
+      {
+        "days": "Sun – Mon",
+        "closed": true
+      }
+    ],
+    "services": [
+      {
+        "title": "Full Groom",
+        "desc": "Bath, blow-out, haircut, nails, ears, and a finishing brush."
+      },
+      {
+        "title": "Bath & Brush",
+        "desc": "Wash, dry, deshed, and tidy-up without a full cut."
+      },
+      {
+        "title": "Nail Trim & Grind",
+        "desc": "Quick walk-in service, no appointment needed."
+      },
+      {
+        "title": "De-Shedding Treatment",
+        "desc": "Undercoat removal for double-coated breeds."
+      },
+      {
+        "title": "Puppy First Groom",
+        "desc": "A short, low-stress introduction to the grooming table."
+      },
+      {
+        "title": "Cat Grooming",
+        "desc": "Baths, lion cuts, and nail caps by appointment."
+      }
+    ],
+    "aboutHeading": "About the Shop",
+    "about": "REPLACE: who the groomer is, how long they have been doing this, and their approach to nervous animals.\n\nREPLACE: certifications, handling philosophy, or what makes the shop different.",
+    "galleryTiles": 6,
+    "testimonials": [],
+    "social": {
+      "facebook": "",
+      "instagram": ""
+    },
+    "cta": {
+      "label": "",
+      "href": "#contact"
+    },
+    "status": "draft",
+    "lead": {
+      "web": "No website — the Whatcom Local listing renders 'Website: Not listed'. Otherwise Yelp, Manta, a BBB profile, Superpages and YellowPages",
+      "sources": [
+        "https://www.whatcomlocal.com/biz/2431/kims-grooming",
+        "https://www.yelp.com/biz/kims-grooming-bellingham",
+        "https://www.bbb.org/us/wa/bellingham/profile/pet-grooming/kims-grooming-1296-90005762"
+      ],
+      "verify": "PITCH SECOND. Established 2007, 5-star Yelp rating, and reviewers explicitly say to book well ahead — a business turning away money because scheduling is a phone bottleneck. The sales conversation is about a booking form rather than vanity, which is a much easier yes. Unusually, the absence of a website is CONFIRMED BY A SOURCE rather than inferred: Whatcom Local's own listing renders 'Website: Not listed'. On the Guide Meridian retail corridor with heavy drive-by volume. Confirm it is still operating and whether boarding is still offered — one listing mentions it, others do not. Competitor City Dogs Grooming owns the first page of 'best pet groomer Bellingham' with a content-heavy site.",
+      "region": "Bellingham — Guide Meridian"
+    }
   }
 ]

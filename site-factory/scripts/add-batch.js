@@ -31,7 +31,7 @@ if (!batchPath) {
 const hoursFor = (c) =>
   ['coffee', 'market', 'autorepair', 'restaurant'].includes(c)
     ? HOURS_PRESETS.earlyservice
-    : ['nails', 'petgrooming', 'professional'].includes(c)
+    : ['nails', 'barber', 'petgrooming', 'professional'].includes(c)
     ? HOURS_PRESETS.appointment
     : HOURS_PRESETS.retail;
 

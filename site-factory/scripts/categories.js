@@ -119,6 +119,24 @@ const CATEGORIES = {
     ],
   },
 
+  barber: {
+    theme: 'salon',
+    schemaType: 'HairSalon',
+    tagline: 'A proper haircut, and time to sit still for it.',
+    aboutHeading: 'About the Shop',
+    about:
+      'REPLACE: who cuts hair here, how long the shop has been open, and what the room feels like.\n\nREPLACE: whether it is walk-in or appointment-only, and how to book.',
+    galleryTiles: 6,
+    services: [
+      { title: "Men's Haircut", desc: 'Consultation, cut, and a finish with clippers or shears.' },
+      { title: 'Beard Trim & Shape', desc: 'Line-up, shape, and conditioning.' },
+      { title: 'Hot Towel Shave', desc: 'Traditional straight-razor shave with hot towels.' },
+      { title: "Kids' Cuts", desc: 'REPLACE: age range and price, or remove this card.' },
+      { title: 'Senior Cuts', desc: 'REPLACE: describe or remove this card.' },
+      { title: 'Cut & Shave', desc: 'REPLACE: combination pricing, or remove this card.' },
+    ],
+  },
+
   boutique: {
     theme: 'boutique',
     schemaType: 'ClothingStore',

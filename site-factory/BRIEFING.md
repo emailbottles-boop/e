@@ -31,6 +31,7 @@ tooling is confined to `site-factory/` and touches nothing else.
 | Generator + leads | `emailbottles-boop/e`, branch `claude/website-build-automation-ju1a0h` |
 | Open PR | https://github.com/emailbottles-boop/e/pull/1 (draft) |
 | Lead call sheet | `site-factory/LEADS.md` — generated, do not hand-edit |
+| Ruled out | `site-factory/RULED-OUT.md` — check before re-scouting anywhere |
 | Lead data | `site-factory/businesses.json` — the one file to edit |
 | This doc | `site-factory/BRIEFING.md` |
 
@@ -156,6 +157,25 @@ Olde Curiosity Shop in Seattle and others).
   location and presence, not e-commerce. Do not over-scope.
 - **Tekoa Market** — visible reviews complain about prices and produce. Frame
   around weekly specials and deli ordering, not brand polish.
+
+### Bellingham
+
+Scouted exhaustively (424 chamber pages, 1,430 directory listings, the full
+Fairhaven roster). Two picked and built:
+
+- **The Barbershop at Fairhaven** — ~25 years at one address, 34 Yelp reviews,
+  a WhatcomTalk feature that already wrote the brand story, and appointment-only
+  booking, so every appointment currently costs a phone call.
+- **Kim's Grooming** — est. 2007, 5-star, reviewers say to book well ahead. The
+  no-website read is confirmed by a source rather than inferred: Whatcom Local
+  renders "Website: Not listed".
+
+Twelve more qualified Bellingham leads are in the scout's report but not yet in
+the config — ask and I'll add them.
+
+Method note: an empty "website" cell in a Bellingham directory is **weak
+evidence**; most Fairhaven businesses with an empty cell do own domains. Every
+Bellingham lead was individually search-verified instead.
 
 ### Coverage gap
 

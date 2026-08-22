@@ -1,6 +1,6 @@
 # Leads
 
-73 Washington businesses with no website found, across 41 towns. A draft site is built for each one in `dist/<slug>/`.
+75 Washington businesses with no website found, across 42 towns. A draft site is built for each one in `dist/<slug>/`.
 
 **Nothing here is confirmed.** Every lead was found through public directory
 and review listings. "No website found" means none turned up in search or in
@@ -35,6 +35,28 @@ blank on purpose; they have to come from the owner.
 - **Current web presence:** Facebook page only — no website found; uses a yahoo.com email address
 - **Confirm before pitching:** Appears to serve Belfair through Shelton rather than one address, so this is likely mobile — if so the site needs a service-area map, not a storefront address.
 - **Sources:** <https://www.facebook.com/michellespedipaws>
+- **Still to fill in:** 6 field(s) — see `node scripts/check.js`
+
+## Bellingham, WA
+
+### The Barbershop at Fairhaven
+
+- **Type:** barber
+- **Draft:** `dist/barbershop-at-fairhaven/index.html`
+- **Repo slug:** `barbershop-at-fairhaven`
+- **Current web presence:** Facebook page only; a Yelp page with 34 reviews and 12 photos, plus Nextdoor and YellowPages. No owned domain found
+- **Confirm before pitching:** PITCH THIS ONE FIRST. Rare combination of everything that predicts a close: ~25 years at one address (opened 2000), 34 Yelp reviews, a full-length WhatcomTalk feature that already wrote the brand story, and an APPOINTMENT-ONLY model — meaning every booking currently costs the owner a phone call. Sits in Fairhaven, surrounded by neighbours who all own domains. The build is close to a transcription job: the WhatcomTalk story, the shop's own photos, and an online booking link. ADDRESS CONFLICT — sources render it as both '1010 Harris Ave' and '1010 Harris St'. Confirm the owner is still the same person and the shop is still at that address. NOTE the Facebook handle is 'Hairtodaygonetomorrow', which suggests a former name — ask about it.
+- **Sources:** <https://www.yelp.com/biz/the-barbershop-at-fairhaven-bellingham> · <https://www.whatcomtalk.com/2023/06/21/the-barbershop-at-fairhaven-offers-a-trip-back-in-time/> · <https://www.facebook.com/Hairtodaygonetomorrow/>
+- **Still to fill in:** 9 field(s) — see `node scripts/check.js`
+
+### Kim's Grooming
+
+- **Type:** petgrooming
+- **Draft:** `dist/kims-grooming-bellingham/index.html`
+- **Repo slug:** `kims-grooming-bellingham`
+- **Current web presence:** No website — the Whatcom Local listing renders 'Website: Not listed'. Otherwise Yelp, Manta, a BBB profile, Superpages and YellowPages
+- **Confirm before pitching:** PITCH SECOND. Established 2007, 5-star Yelp rating, and reviewers explicitly say to book well ahead — a business turning away money because scheduling is a phone bottleneck. The sales conversation is about a booking form rather than vanity, which is a much easier yes. Unusually, the absence of a website is CONFIRMED BY A SOURCE rather than inferred: Whatcom Local's own listing renders 'Website: Not listed'. On the Guide Meridian retail corridor with heavy drive-by volume. Confirm it is still operating and whether boarding is still offered — one listing mentions it, others do not. Competitor City Dogs Grooming owns the first page of 'best pet groomer Bellingham' with a content-heavy site.
+- **Sources:** <https://www.whatcomlocal.com/biz/2431/kims-grooming> · <https://www.yelp.com/biz/kims-grooming-bellingham> · <https://www.bbb.org/us/wa/bellingham/profile/pet-grooming/kims-grooming-1296-90005762>
 - **Still to fill in:** 6 field(s) — see `node scripts/check.js`
 
 ## Buckley, WA

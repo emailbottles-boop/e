@@ -39,7 +39,7 @@ function slugify(s) {
 
 function hoursFor(category) {
   if (['coffee', 'market', 'autorepair', 'restaurant'].includes(category)) return HOURS_PRESETS.earlyservice;
-  if (['nails', 'petgrooming', 'professional'].includes(category)) return HOURS_PRESETS.appointment;
+  if (['nails', 'barber', 'petgrooming', 'professional'].includes(category)) return HOURS_PRESETS.appointment;
   return HOURS_PRESETS.retail;
 }
 

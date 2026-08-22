@@ -113,6 +113,7 @@ first.
     scripts/new-site.js      add a business from the command line
     scripts/check.js         readiness gate
     scripts/leads.js         regenerate LEADS.md from businesses.json
+    BRIEFING.md              state of play — read this first when picking work back up
     scripts/seed.js          one-time: lay down blank slots
     LEADS.md                 the call sheet — sources and what to confirm
 

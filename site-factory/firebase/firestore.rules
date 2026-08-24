@@ -1,0 +1,77 @@
+rules_version = '2';
+
+// Firestore rules for a small-business site with a public booking form.
+//
+// The threat these rules exist to stop: a booking form collects customer
+// names, phone numbers and email addresses. The default "allow read, write:
+// if true" rules that most tutorials start from would let ANYONE on the
+// internet download every booking your client has ever received. That is a
+// privacy breach involving your client's customers, caused by your code.
+//
+// The shape below is: the public may CREATE a booking and nothing else. Only
+// the shop owner, signed in, may read them.
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Owner check. Set this claim once from a trusted environment:
+    //   admin.auth().setCustomUserClaims(uid, { admin: true })
+    // Never trust a field inside the document to decide who is an admin —
+    // the client controls document fields, so that check would be worthless.
+    function isOwner() {
+      return request.auth != null && request.auth.token.admin == true;
+    }
+
+    // Validate a booking submission. Without this, anyone can write a
+    // multi-megabyte document with arbitrary fields and run up the bill, or
+    // inject fields the shop's dashboard will later render.
+    function isValidBooking() {
+      let d = request.resource.data;
+      return d.keys().hasOnly(
+               ['name','phone','email','service','preferredDate','notes','createdAt','status'])
+          && d.keys().hasAll(['name','phone','createdAt','status'])
+          && d.name is string  && d.name.size()  > 0 && d.name.size()  <= 100
+          && d.phone is string && d.phone.size() >= 7 && d.phone.size() <= 25
+          && (!('email' in d)         || (d.email is string         && d.email.size()         <= 200))
+          && (!('service' in d)       || (d.service is string       && d.service.size()       <= 100))
+          && (!('preferredDate' in d) || (d.preferredDate is string && d.preferredDate.size() <= 40))
+          && (!('notes' in d)         || (d.notes is string         && d.notes.size()         <= 1000))
+          // Server clock, not the client's — a client-supplied timestamp can
+          // be backdated to hide or reorder submissions.
+          && d.createdAt == request.time
+          // Everything starts as 'new'. A submitter cannot mark their own
+          // booking confirmed.
+          && d.status == 'new';
+    }
+
+    match /bookings/{bookingId} {
+      // Anyone may request an appointment...
+      allow create: if isValidBooking();
+
+      // ...but only the owner may ever see them. Note there is no `list`
+      // exemption: without this, a booking ID guess would leak a record.
+      allow read: if isOwner();
+
+      // The owner may work the queue (new -> confirmed -> done) but the
+      // customer's submitted details stay immutable.
+      allow update: if isOwner()
+                    && request.resource.data.diff(resource.data)
+                         .affectedKeys().hasOnly(['status','ownerNotes']);
+
+      allow delete: if isOwner();
+    }
+
+    // Public site content the owner edits from a dashboard: hours, service
+    // list, prices. World-readable on purpose, owner-writable only.
+    match /site/{docId} {
+      allow read: if true;
+      allow write: if isOwner();
+    }
+
+    // Anything not explicitly matched above is denied. Keep it that way —
+    // a catch-all match with a permissive rule undoes everything here.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

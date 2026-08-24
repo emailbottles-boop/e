@@ -1,0 +1,31 @@
+rules_version = '2';
+
+// Storage rules for site images.
+//
+// Photos for these sites live in the git repo, so Storage is only needed if
+// the shop owner uploads their own photos through a dashboard. If you are not
+// building that, do not enable Storage at all — an unused bucket with open
+// rules is a liability, and open buckets are actively scanned for.
+
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    function isOwner() {
+      return request.auth != null && request.auth.token.admin == true;
+    }
+
+    // Site photos: the public must read them (they render on the page), only
+    // the owner may write. The content-type and size checks stop the bucket
+    // being used to host someone else's files.
+    match /site-images/{imageId} {
+      allow read: if true;
+      allow write: if isOwner()
+                   && request.resource.size < 8 * 1024 * 1024
+                   && request.resource.contentType.matches('image/(jpeg|png|webp|avif)');
+    }
+
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}

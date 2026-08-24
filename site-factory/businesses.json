@@ -5889,7 +5889,14 @@
       ],
       "verify": "PITCH THIS ONE FIRST. Rare combination of everything that predicts a close: ~25 years at one address (opened 2000), 34 Yelp reviews, a full-length WhatcomTalk feature that already wrote the brand story, and an APPOINTMENT-ONLY model — meaning every booking currently costs the owner a phone call. Sits in Fairhaven, surrounded by neighbours who all own domains. The build is close to a transcription job: the WhatcomTalk story, the shop's own photos, and an online booking link. ADDRESS CONFLICT — sources render it as both '1010 Harris Ave' and '1010 Harris St'. Confirm the owner is still the same person and the shop is still at that address. NOTE the Facebook handle is 'Hairtodaygonetomorrow', which suggests a former name — ask about it.",
       "region": "Bellingham — Fairhaven"
-    }
+    },
+    "photoAlts": [
+      "A traditional barbershop storefront with a striped barber pole",
+      "A barber trimming a customer’s facial hair",
+      "A barber’s workstation laid out with clippers, shears and combs",
+      "A classic red, white and blue barber pole",
+      "A barber trimming a bearded customer’s hair"
+    ]
   },
   {
     "slug": "kims-grooming-bellingham",
@@ -5965,6 +5972,14 @@
       ],
       "verify": "PITCH SECOND. Established 2007, 5-star Yelp rating, and reviewers explicitly say to book well ahead — a business turning away money because scheduling is a phone bottleneck. The sales conversation is about a booking form rather than vanity, which is a much easier yes. Unusually, the absence of a website is CONFIRMED BY A SOURCE rather than inferred: Whatcom Local's own listing renders 'Website: Not listed'. On the Guide Meridian retail corridor with heavy drive-by volume. Confirm it is still operating and whether boarding is still offered — one listing mentions it, others do not. Competitor City Dogs Grooming owns the first page of 'best pet groomer Bellingham' with a content-heavy site.",
       "region": "Bellingham — Guide Meridian"
-    }
+    },
+    "photoAlts": [
+      "A groomer washing a small dog in a grooming tub",
+      "A groomer blow-drying a freshly styled poodle",
+      "A Pomeranian standing calmly on a grooming table",
+      "A long-haired white cat being combed by a groomer",
+      "Pet grooming clippers and scissors laid out on a mat",
+      "A groomer brushing out a poodle’s coat"
+    ]
   }
 ]

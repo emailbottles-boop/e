@@ -49,6 +49,42 @@ function initials(name) {
   return (words[0][0] + words[words.length - 1][0]).toUpperCase();
 }
 
+
+/* ----------------------------------------------------------------- assets */
+
+/**
+ * Photos for a site live in assets/<slug>/ and are copied into dist at build
+ * time. dist/ is gitignored and rebuilt from scratch, so anything kept only
+ * there would be destroyed on the next build.
+ *
+ * hero.jpg becomes the hero background; every other image, sorted by name,
+ * becomes a gallery tile.
+ */
+function assetPhotos(slug) {
+  const dir = path.join(ROOT, 'assets', slug);
+  if (!fs.existsSync(dir)) return { hero: null, gallery: [] };
+  const files = fs
+    .readdirSync(dir)
+    .filter((f) => /\.(jpe?g|png|webp|avif)$/i.test(f))
+    .sort();
+  return {
+    hero: files.find((f) => /^hero\./i.test(f)) || null,
+    gallery: files.filter((f) => !/^hero\./i.test(f)),
+  };
+}
+
+function copyAssets(slug, outDir) {
+  const dir = path.join(ROOT, 'assets', slug);
+  if (!fs.existsSync(dir)) return 0;
+  let n = 0;
+  for (const f of fs.readdirSync(dir)) {
+    if (!/\.(jpe?g|png|webp|avif)$/i.test(f)) continue;
+    fs.copyFileSync(path.join(dir, f), path.join(outDir, 'img', f));
+    n++;
+  }
+  return n;
+}
+
 /* ----------------------------------------------------------------- themes */
 
 function loadThemes() {
@@ -132,20 +168,39 @@ ${quotes}
 }
 
 function galleryHtml(b, alt) {
-  const n = Number(b.galleryTiles || 0);
+  const photos = assetPhotos(b.slug).gallery;
+  const n = photos.length || Number(b.galleryTiles || 0);
   if (!n) return '';
-  const tiles = Array.from({ length: n }, (_, i) => {
-    return `          <li class="tile" aria-hidden="true"><span class="tile-slot">Photo ${
-      i + 1
-    }</span></li>`;
-  }).join('\n');
+
+  const items = photos.length
+    ? photos
+        .map((file, i) => {
+          const caption = (b.photoAlts && b.photoAlts[i]) || `${b.name} — photo ${i + 1}`;
+          return `          <li class="tile"><img src="img/${esc(file)}" alt="${esc(
+            caption
+          )}" loading="lazy" width="1000" height="750"></li>`;
+        })
+        .join('\n')
+    : Array.from(
+        { length: n },
+        (_, i) =>
+          `          <li class="tile" aria-hidden="true"><span class="tile-slot">Photo ${
+            i + 1
+          }</span></li>`
+      ).join('\n');
+
+  // The "drop your photos in" note is for drafts only — once real photos are
+  // in place it would read as an instruction left in by mistake.
+  const note = photos.length
+    ? ''
+    : `        <p class="note">Drop your photos into <code>img/</code> and swap these placeholders in <code>index.html</code>.</p>\n`;
+
   return `
     <section id="gallery" class="section${alt ? ' alt' : ''}" aria-labelledby="gallery-h">
       <div class="wrap">
         <h2 id="gallery-h">Gallery</h2>
-        <p class="note">Drop your photos into <code>img/</code> and swap these placeholders in <code>index.html</code>.</p>
-        <ul class="gallery" role="list">
-${tiles}
+${note}        <ul class="gallery" role="list">
+${items}
         </ul>
       </div>
     </section>`;
@@ -201,6 +256,7 @@ ${hoursHtml(b.hours)}
 /* ------------------------------------------------------------------ pages */
 
 function buildIndex(b, theme) {
+  const heroPhoto = assetPhotos(b.slug).hero;
   const sections = [];
   if (nonEmpty(b.services)) sections.push({ id: 'services', label: 'Services' });
   if (has(b.about)) sections.push({ id: 'about', label: 'About' });
@@ -316,7 +372,9 @@ ${jsonld(schema)}
 </header>
 
 <main id="main">
-  <section id="top" class="hero" aria-labelledby="hero-h">
+  <section id="top" class="hero${heroPhoto ? ' has-photo' : ''}"${
+    heroPhoto ? ` style="--hero-image:url('img/${esc(heroPhoto)}')"` : ''
+  } aria-labelledby="hero-h">
     <div class="wrap hero-inner">
       <p class="eyebrow">${esc(
         b.eyebrow || [b.city, b.state].filter(has).join(', ')
@@ -630,10 +688,16 @@ function main() {
       path.join(out, 'img', '.gitkeep'),
       ''
     );
+    const copied = copyAssets(b.slug, out);
+
     const sm = sitemap(b);
     if (sm) fs.writeFileSync(path.join(out, 'sitemap.xml'), sm);
 
-    console.log(`built  dist/${b.slug}  (theme: ${b.theme || 'default'})`);
+    console.log(
+      `built  dist/${b.slug}  (theme: ${b.theme || 'default'}${
+        copied ? `, ${copied} photo${copied === 1 ? '' : 's'}` : ''
+      })`
+    );
   }
 
   fs.writeFileSync(path.join(DIST, 'index.html'), buildPreviewIndex(targets, themes));

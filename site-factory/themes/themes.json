@@ -1,0 +1,171 @@
+{
+  "coffee": {
+    "label": "Coffee / espresso / cafe",
+    "fonts": {
+      "display": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, Georgia, serif",
+      "body": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "radius": "10px",
+    "heroPattern": "radial-gradient(circle at 88% 12%, color-mix(in srgb, var(--brand) 12%, transparent), transparent 55%)",
+    "colors": {
+      "brand": "#7b4a2d", "brandInk": "#fffaf5", "accent": "#c2703d",
+      "bg": "#fdfaf6", "bgAlt": "#f5ede3", "surface": "#ffffff",
+      "ink": "#241a13", "inkSoft": "#6b5b4e", "line": "#e3d7c8",
+      "darkBg": "#191310", "darkBgAlt": "#221a15", "darkSurface": "#241c17",
+      "darkInk": "#f4ece4", "darkInkSoft": "#bfae9e", "darkLine": "#3a2e26"
+    }
+  },
+
+  "pets": {
+    "label": "Pet grooming / boarding / veterinary",
+    "fonts": {
+      "display": "\"Trebuchet MS\", \"Segoe UI\", system-ui, sans-serif",
+      "body": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "radius": "16px",
+    "heroPattern": "radial-gradient(circle at 10% 90%, color-mix(in srgb, var(--accent) 16%, transparent), transparent 50%)",
+    "colors": {
+      "brand": "#1f7a72", "brandInk": "#ffffff", "accent": "#f2a03d",
+      "bg": "#fbfdfd", "bgAlt": "#eef7f6", "surface": "#ffffff",
+      "ink": "#10201f", "inkSoft": "#5a6f6d", "line": "#d7e7e5",
+      "darkBg": "#0e1817", "darkBgAlt": "#132220", "darkSurface": "#162624",
+      "darkInk": "#e9f4f3", "darkInkSoft": "#9db8b5", "darkLine": "#23413e"
+    }
+  },
+
+  "vintage": {
+    "label": "Antiques / vintage / collectibles",
+    "fonts": {
+      "display": "\"Hoefler Text\", \"Baskerville Old Face\", Baskerville, Georgia, serif",
+      "body": "\"Iowan Old Style\", Georgia, \"Times New Roman\", serif"
+    },
+    "radius": "4px",
+    "heroPattern": "linear-gradient(180deg, color-mix(in srgb, var(--brand) 7%, transparent), transparent 60%)",
+    "colors": {
+      "brand": "#6d4534", "brandInk": "#fdf8f3", "accent": "#9c7c3f",
+      "bg": "#faf6f0", "bgAlt": "#f0e8dc", "surface": "#fffdfa",
+      "ink": "#2b211a", "inkSoft": "#6d5f52", "line": "#ded0bd",
+      "darkBg": "#17120e", "darkBgAlt": "#1f1813", "darkSurface": "#221a15",
+      "darkInk": "#f2e9dd", "darkInkSoft": "#bfae99", "darkLine": "#3b2f25"
+    }
+  },
+
+  "thrift": {
+    "label": "Thrift / resale / consignment",
+    "fonts": {
+      "display": "\"Trebuchet MS\", \"Segoe UI\", system-ui, sans-serif",
+      "body": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "radius": "12px",
+    "heroPattern": "linear-gradient(135deg, color-mix(in srgb, var(--accent) 14%, transparent), transparent 55%)",
+    "colors": {
+      "brand": "#8a3f6d", "brandInk": "#ffffff", "accent": "#3f8a72",
+      "bg": "#fdfbfc", "bgAlt": "#f6eef3", "surface": "#ffffff",
+      "ink": "#1f1319", "inkSoft": "#6a5762", "line": "#e6d5df",
+      "darkBg": "#171016", "darkBgAlt": "#1f151d", "darkSurface": "#231821",
+      "darkInk": "#f4ebf1", "darkInkSoft": "#bda6b6", "darkLine": "#3b2a36"
+    }
+  },
+
+  "auto": {
+    "label": "Auto repair / offroad / mechanical",
+    "fonts": {
+      "display": "\"Arial Black\", \"Segoe UI\", Impact, system-ui, sans-serif",
+      "body": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "radius": "6px",
+    "heroPattern": "linear-gradient(105deg, color-mix(in srgb, var(--ink) 8%, transparent) 0 42%, transparent 42%)",
+    "colors": {
+      "brand": "#b3391f", "brandInk": "#ffffff", "accent": "#2f4858",
+      "bg": "#fbfbfc", "bgAlt": "#eef0f3", "surface": "#ffffff",
+      "ink": "#15191d", "inkSoft": "#59636d", "line": "#d8dde3",
+      "darkBg": "#101315", "darkBgAlt": "#171b1f", "darkSurface": "#1a1f23",
+      "darkInk": "#eef1f4", "darkInkSoft": "#a6b0b9", "darkLine": "#2b3238"
+    }
+  },
+
+  "salon": {
+    "label": "Nails / hair / spa / beauty",
+    "fonts": {
+      "display": "\"Didot\", \"Bodoni MT\", \"Playfair Display\", Georgia, serif",
+      "body": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "radius": "18px",
+    "heroPattern": "radial-gradient(ellipse at 75% 0%, color-mix(in srgb, var(--brand) 14%, transparent), transparent 60%)",
+    "colors": {
+      "brand": "#9c5f7a", "brandInk": "#ffffff", "accent": "#c39b6a",
+      "bg": "#fefcfd", "bgAlt": "#f8f0f3", "surface": "#ffffff",
+      "ink": "#221a1e", "inkSoft": "#6d5c63", "line": "#ecdae1",
+      "darkBg": "#181215", "darkBgAlt": "#20181c", "darkSurface": "#241b1f",
+      "darkInk": "#f6edf1", "darkInkSoft": "#c2adb5", "darkLine": "#3b2c33"
+    }
+  },
+
+  "boutique": {
+    "label": "Boutique / gifts / apparel",
+    "fonts": {
+      "display": "\"Optima\", \"Gill Sans\", \"Gill Sans MT\", \"Segoe UI\", system-ui, sans-serif",
+      "body": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "radius": "14px",
+    "heroPattern": "linear-gradient(160deg, color-mix(in srgb, var(--brand) 10%, transparent), transparent 55%)",
+    "colors": {
+      "brand": "#3f5d52", "brandInk": "#ffffff", "accent": "#b98a52",
+      "bg": "#fcfcfa", "bgAlt": "#f1f2ee", "surface": "#ffffff",
+      "ink": "#1a1f1c", "inkSoft": "#5f6b65", "line": "#dde1db",
+      "darkBg": "#121614", "darkBgAlt": "#181d1a", "darkSurface": "#1b211e",
+      "darkInk": "#eef2ef", "darkInkSoft": "#a8b5ae", "darkLine": "#2a332e"
+    }
+  },
+
+  "market": {
+    "label": "Grocery / deli / market / farm stand",
+    "fonts": {
+      "display": "\"Trebuchet MS\", \"Segoe UI\", system-ui, sans-serif",
+      "body": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "radius": "10px",
+    "heroPattern": "radial-gradient(circle at 92% 88%, color-mix(in srgb, var(--accent) 18%, transparent), transparent 45%)",
+    "colors": {
+      "brand": "#3d7a35", "brandInk": "#ffffff", "accent": "#d4972a",
+      "bg": "#fcfdfa", "bgAlt": "#eff5ec", "surface": "#ffffff",
+      "ink": "#161d14", "inkSoft": "#5a6857", "line": "#d9e5d5",
+      "darkBg": "#101610", "darkBgAlt": "#161d15", "darkSurface": "#192018",
+      "darkInk": "#edf3ea", "darkInkSoft": "#a9b8a5", "darkLine": "#2a352a"
+    }
+  },
+
+  "trade": {
+    "label": "Contractor / landscaping / cleaning / home services",
+    "fonts": {
+      "display": "\"Segoe UI\", system-ui, -apple-system, Roboto, sans-serif",
+      "body": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "radius": "8px",
+    "heroPattern": "linear-gradient(120deg, color-mix(in srgb, var(--brand) 11%, transparent), transparent 50%)",
+    "colors": {
+      "brand": "#1f5a8a", "brandInk": "#ffffff", "accent": "#e08d2c",
+      "bg": "#fbfcfd", "bgAlt": "#eef3f7", "surface": "#ffffff",
+      "ink": "#13191f", "inkSoft": "#566470", "line": "#d5dfe8",
+      "darkBg": "#0f1418", "darkBgAlt": "#141b21", "darkSurface": "#171f25",
+      "darkInk": "#eaf1f6", "darkInkSoft": "#a2b2bf", "darkLine": "#26333d"
+    }
+  },
+
+  "professional": {
+    "label": "Law / accounting / consulting / clinic",
+    "fonts": {
+      "display": "\"Iowan Old Style\", Georgia, \"Times New Roman\", serif",
+      "body": "system-ui, -apple-system, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+    },
+    "radius": "6px",
+    "heroPattern": "linear-gradient(180deg, color-mix(in srgb, var(--brand) 8%, transparent), transparent 65%)",
+    "colors": {
+      "brand": "#26456b", "brandInk": "#ffffff", "accent": "#8a6d3f",
+      "bg": "#fcfcfd", "bgAlt": "#eff1f5", "surface": "#ffffff",
+      "ink": "#14181f", "inkSoft": "#555e6c", "line": "#d9dde5",
+      "darkBg": "#101318", "darkBgAlt": "#161a20", "darkSurface": "#191e25",
+      "darkInk": "#ebeef3", "darkInkSoft": "#a3acba", "darkLine": "#262d38"
+    }
+  }
+}
